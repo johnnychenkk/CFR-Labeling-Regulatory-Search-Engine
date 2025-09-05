@@ -40,7 +40,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Bleach, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -49,7 +49,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       keywords:
-        "Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
+        "Bleach, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.121",
     },
     {
@@ -59,7 +59,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Products requiring special labeling under section 3(b) of the act",
       keywords:
-        "Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
+        "Bleach, Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
       link: "https://www.ecfr.gov/current/title-16/section-1500.14",
     },
     {
@@ -68,7 +68,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.127",
       title: "Substances with multiple hazards",
       keywords:
-        "Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
+        "Bleach, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
       link: "https://www.ecfr.gov/current/title-16/section-1500.127",
     },
     {
@@ -86,7 +86,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.129",
       title: "Substances named in the Federal Caustic Poison Act",
       keywords:
-        "POISON, Principal hazard, Highly toxic, Chemical name, Concentration, Hydrochloric acid, Sulfuric acid, Nitric acid, Carbolic acid, Phenol, Oxalic acid, Potassium hydroxide, Caustic potash, Sodium hydroxide, Caustic soda, Lye, Silver nitrate, Ammonia water, Ammonium hydroxide, Acetic acid, First-aid treatment, Misbranded parcel package or container",
+        "Bleach, POISON, Principal hazard, Highly toxic, Chemical name, Concentration, Hydrochloric acid, Sulfuric acid, Nitric acid, Carbolic acid, Phenol, Oxalic acid, Potassium hydroxide, Caustic potash, Sodium hydroxide, Caustic soda, Lye, Silver nitrate, Ammonia water, Ammonium hydroxide, Acetic acid, First-aid treatment, Misbranded parcel package or container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.129",
     },
     {
@@ -114,7 +114,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (f)",
       title: "Hazard communication",
       keywords:
-        "Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
+        "Bleach, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
@@ -132,7 +132,7 @@ const RegulatorySearchEngine = () => {
       section: "Appendix D to § 1910.1200",
       title: "Safety Data Sheets (Mandatory)",
       keywords:
-        "Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
+        "Bleach, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
       link: "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-Z/section-1910.1200",
     },
     {
@@ -150,7 +150,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.400",
       title: "General labeling requirements",
       keywords:
-        "Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
+        "Bleach, Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
       link: "https://www.ecfr.gov/current/title-49/section-172.400",
     },
     {
@@ -232,7 +232,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.504",
       title: "General placarding requirements",
       keywords:
-        "Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
+        "Bleach, Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
       link: "https://www.ecfr.gov/current/title-49/section-172.504",
     },
     {
@@ -259,7 +259,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.10",
       title: "Labeling requirements",
       keywords:
-        "Name, Brand, Trademark, Producer, Registrant, Person for whom produced, Net contents, EPA Registration Number (EPA Reg. No.), EPA Establishment Number (EPA Est. No.), Signal word, DANGER, WARNING, CAUTION, POISON, Skull and crossbones symbol, Keep out of the reach of children, Precautionary statements, First aid instructions, Environmental hazards, Personal Protective Equipment (PPE), Labeling, Principal display panel, Conspicuous, Legible, English language, Ingredient statement, Directions for Use, Misbranding, False statements, Misleading statements, Storage statements, Disposal statements",
+        "Bleach, Name, Brand, Trademark, Producer, Registrant, Person for whom produced, Net contents, EPA Registration Number (EPA Reg. No.), EPA Establishment Number (EPA Est. No.), Signal word, DANGER, WARNING, CAUTION, POISON, Skull and crossbones symbol, Keep out of the reach of children, Precautionary statements, First aid instructions, Environmental hazards, Personal Protective Equipment (PPE), Labeling, Principal display panel, Conspicuous, Legible, English language, Ingredient statement, Directions for Use, Misbranding, False statements, Misleading statements, Storage statements, Disposal statements",
       link: "https://www.ecfr.gov/current/title-40/section-156.10",
     },
     {
@@ -268,7 +268,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.64",
       title: "Signal word",
       keywords:
-        "Signal word, DANGER, WARNING, CAUTION, POISON, Toxicity Category I, Toxicity Category II, Toxicity Category III, Toxicity Category IV, Front panel, Conspicuous, All capital letters, Acute toxicity, Routes of exposure, Oral, Dermal, Inhalation, Eye irritation, Skin irritation, Child hazard warning, Keep Out of Reach of Children",
+        "Bleach, Signal word, DANGER, WARNING, CAUTION, POISON, Toxicity Category I, Toxicity Category II, Toxicity Category III, Toxicity Category IV, Front panel, Conspicuous, All capital letters, Acute toxicity, Routes of exposure, Oral, Dermal, Inhalation, Eye irritation, Skin irritation, Child hazard warning, Keep Out of Reach of Children",
       link: "https://www.ecfr.gov/current/title-40/section-156.64",
     },
     {
@@ -277,7 +277,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.66",
       title: "Child hazard warning",
       keywords:
-        "Keep Out of Reach of Children, Front panel, Signal word, Separate line, Alternative statement, Waived, Toxicity Category IV, Industrial use product, Impregnated pet collar",
+        "Bleach, Keep Out of Reach of Children, Front panel, Signal word, Separate line, Alternative statement, Waived, Toxicity Category IV, Industrial use product, Impregnated pet collar",
       link: "https://www.ecfr.gov/current/title-40/section-156.66",
     },
     {
@@ -286,7 +286,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.68",
       title: "First aid statements",
       keywords:
-        "First Aid, Statement of Practical Treatment, Systemic effects, Skin or eye irritation, Toxicity Category I, II, III, Routes of exposure, Note to Physician, Front panel, See first aid statement on back panel, Any panel, Legible, Conspicuous",
+        "Bleach, First Aid, Statement of Practical Treatment, Systemic effects, Skin or eye irritation, Toxicity Category I, II, III, Routes of exposure, Note to Physician, Front panel, See first aid statement on back panel, Any panel, Legible, Conspicuous",
       link: "https://www.ecfr.gov/current/title-40/section-156.68",
     },
     {
@@ -295,7 +295,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.70",
       title: "Precautionary statements for human hazards",
       keywords:
-        "Precautionary Statements, Human Hazards, Domestic Animals, Signal Word, DANGER, WARNING, CAUTION, POISON, Skull and Crossbones, First Aid Statement, Hazard Statements, Fatal if swallowed/inhaled/absorbed, Corrosive, Causes eye and skin damage, Causes eye/skin irritation, Route(s) of exposure, Precautionary Measures, Do not breathe vapor/dust/mist, Do not get in eyes/skin/clothing, Wear goggles/face shield/rubber gloves, Personal Protective Equipment (PPE), Toxicity Category I, II, III, IV, Irritation effects, Sensitizer, Acute hazard, Use dilution",
+        "Bleach, Precautionary Statements, Human Hazards, Domestic Animals, Signal Word, DANGER, WARNING, CAUTION, POISON, Skull and Crossbones, First Aid Statement, Hazard Statements, Fatal if swallowed/inhaled/absorbed, Corrosive, Causes eye and skin damage, Causes eye/skin irritation, Route(s) of exposure, Precautionary Measures, Do not breathe vapor/dust/mist, Do not get in eyes/skin/clothing, Wear goggles/face shield/rubber gloves, Personal Protective Equipment (PPE), Toxicity Category I, II, III, IV, Irritation effects, Sensitizer, Acute hazard, Use dilution",
       link: "https://www.ecfr.gov/current/title-40/section-156.70",
     },
     {
@@ -313,7 +313,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.144",
       title: "Residue removal instructions—general",
       keywords:
-        "Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
+        "Bleach, Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
       link: "https://www.ecfr.gov/current/title-40/section-156.144",
     },
     {
@@ -576,6 +576,34 @@ const RegulatorySearchEngine = () => {
         "Recommended or usual dosage, Prescription drugs, Package insert, See package insert for dosage information, Informative, Useful, Realistic, Readily be set forth on the label, Varies within extremely wide limits",
       link: "https://www.ecfr.gov/current/title-21/section-201.55",
     },
+    {
+      id: 62,
+      category: "Air Programs",
+      section: "Table 1 to Subpart D of Part 59",
+      title:
+        "—Volatile Organic Compound (VOC), Content Limits for Architectural Coatings",
+      keywords:
+        "Volatile Organic Compound (VOC), Content Limits, Architectural Coatings, Thinned to the manufacturer's maximum recommendation, Coating Categories, Flat coatings, Nonflat coatings, Primers, Sealers, Undercoaters, Specialty coatings, Antenna coatings, Concrete protective coatings, Industrial maintenance coatings, Lacquers, Roof coatings, Rust preventative coatings, Stains, Varnishes, Wood preservatives, Grams VOC per liter, Pounds VOC per gallon, Compliance, Exempt compounds",
+      link: "https://www.ecfr.gov/current/title-40/part-59/appendix-Table%201%20to%20Subpart%20D%20of%20Part%2059",
+    },
+    {
+      id: 63,
+      category: "Pesticide Programs",
+      section: "§ 156.78",
+      title: "Precautionary statements for physical or chemical hazards",
+      keywords:
+        "Bleach, Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
+      link: "https://www.ecfr.gov/current/title-40/section-156.78",
+    },
+    {
+      id: 64,
+      category: "Pesticide Programs",
+      section: "§ 156.85",
+      title: "Non-target organisms",
+      keywords:
+        "Bleach, Non-target organisms, Hazard statements, Precautionary statements, Pesticide is toxic to..., Extremely toxic, Lethal dose (LD50), Lethal concentration (LC50), Aquatic applications, Pollinating insects, Contaminate water, Disposal of wastes",
+      link: "https://www.ecfr.gov/current/title-40/section-156.85",
+    },
   ];
 
   // Get unique categories for filter
@@ -755,40 +783,20 @@ const RegulatorySearchEngine = () => {
                 <div className="p-6">
                   <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between gap-4 mb-4">
                     <div className="flex-1">
-                      <div className="flex items-center gap-2 mb-2">
-                        <span className="inline-block px-3 py-1 bg-indigo-100 text-indigo-800 text-sm font-medium rounded-full">
-                          {item.category}
-                        </span>
-                        <span className="text-sm font-mono text-gray-600 bg-gray-100 px-2 py-1 rounded">
-                          {item.section}
-                        </span>
-                      </div>
-                      <h2 className="text-xl font-bold text-gray-900 mb-3 leading-tight">
-                        {highlightText(item.title, searchQuery)}
-                      </h2>
+                      <a
+                        href={item.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block hover:text-indigo-600 transition-colors"
+                      >
+                        <h2 className="text-xl font-bold text-gray-900 mb-3 leading-tight hover:text-indigo-600">
+                          <span className="text-sm font-mono text-gray-600 bg-gray-100 px-2 py-1 rounded mr-3">
+                            {item.section}
+                          </span>
+                          {highlightText(item.title, searchQuery)}
+                        </h2>
+                      </a>
                     </div>
-                    <a
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors whitespace-nowrap"
-                    >
-                      <ExternalLink className="h-4 w-4" />
-                      View Source
-                    </a>
-                  </div>
-
-                  {/* Direct Link */}
-                  <div className="bg-gray-50 rounded-lg p-3 mt-4">
-                    <p className="text-xs text-gray-500 mb-1">Direct Link:</p>
-                    <a
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-sm text-indigo-600 hover:text-indigo-800 break-all"
-                    >
-                      {item.link}
-                    </a>
                   </div>
                 </div>
               </div>
