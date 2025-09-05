@@ -523,9 +523,9 @@ const RegulatorySearchEngine = () => {
       category: "Drugs: General",
       section: "§ 201.66",
       title:
-        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Format and content requirements for over-the-counter (OTC) drug product labeling",
+        "Format and content requirements for over-the-counter (OTC) drug product labeling",
       keywords:
-        "Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
       link: "https://www.ecfr.gov/current/title-21/section-201.66",
     },
     {
@@ -619,7 +619,7 @@ const RegulatorySearchEngine = () => {
       category: "Federal Hazardous Substances Act Regulations",
       section: "PART 1501",
       title:
-        "—METHOD FOR IDENTIFYING TOYS AND OTHER ARTICLES INTENDED FOR USE BY CHILDREN UNDER 3 YEARS OF AGE WHICH PRESENT CHOKING, ASPIRATION, OR INGESTION HAZARDS BECAUSE OF SMALL PARTS",
+        "Method for Identifying Toys and Other Articles Intended for Use by Children Under 3 Years of Age Which Present Choking, Aspiration, or Ingestion Hazards Because of Small Parts",
       keywords:
         "River Rocks, Choking, aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
       link: "https://www.ecfr.gov/current/title-16/part-1501",
@@ -629,7 +629,7 @@ const RegulatorySearchEngine = () => {
       category: "Fair Packaging and Labeling Act",
       section: "Part 500",
       title:
-        "—REGULATIONS UNDER SECTION 4 OF THE FAIR PACKAGING AND LABELING ACT",
+        "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
       keywords:
         "Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, sand, rocks, Isopropyl Alcohol, bleach, paint, Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
       link: "https://www.ecfr.gov/current/title-16/part-500",
