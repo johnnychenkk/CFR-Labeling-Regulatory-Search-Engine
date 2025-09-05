@@ -21,7 +21,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.19",
       title: "Misbranded toys and other articles intended for use by children",
       keywords:
-        "WARNING, SAFETY WARNING, CHOKING HAZARD, Small part, Small ball, Latex balloon, Marble, Labeling statements, Descriptive material, English language, Conspicuous and legible type, Typography layout or color, Solid background, Square or rectangular area, Toy or game, Children's products, Age of intended user, Not for children under 3 yrs., Not for under 8 yrs.",
+        "River Rocks, Sand, WARNING, SAFETY WARNING, CHOKING HAZARD, Small part, Small ball, Latex balloon, Marble, Labeling statements, Descriptive material, English language, Conspicuous and legible type, Typography layout or color, Solid background, Square or rectangular area, Toy or game, Children's products, Age of intended user, Not for children under 3 yrs., Not for under 8 yrs.",
       link: "https://www.ecfr.gov/current/title-16/section-1500.19",
     },
     {
@@ -40,7 +40,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Bleach, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -49,7 +49,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
+        "River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Bleach, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.121",
     },
     {
@@ -68,7 +68,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.127",
       title: "Substances with multiple hazards",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
+        "Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Bleach, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
       link: "https://www.ecfr.gov/current/title-16/section-1500.127",
     },
     {
@@ -86,7 +86,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.129",
       title: "Substances named in the Federal Caustic Poison Act",
       keywords:
-        "Bleach, POISON, Principal hazard, Highly toxic, Chemical name, Concentration, Hydrochloric acid, Sulfuric acid, Nitric acid, Carbolic acid, Phenol, Oxalic acid, Potassium hydroxide, Caustic potash, Sodium hydroxide, Caustic soda, Lye, Silver nitrate, Ammonia water, Ammonium hydroxide, Acetic acid, First-aid treatment, Misbranded parcel package or container",
+        "Soda Ash, sodium carbonate, Bleach, POISON, Principal hazard, Highly toxic, Chemical name, Concentration, Hydrochloric acid, Sulfuric acid, Nitric acid, Carbolic acid, Phenol, Oxalic acid, Potassium hydroxide, Caustic potash, Sodium hydroxide, Caustic soda, Lye, Silver nitrate, Ammonia water, Ammonium hydroxide, Acetic acid, First-aid treatment, Misbranded parcel package or container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.129",
     },
     {
@@ -112,18 +112,18 @@ const RegulatorySearchEngine = () => {
       id: 11,
       category: "Hazard Communication Standard (HCS)",
       section: "§ 1910.1200 (f)",
-      title: "Hazard communication",
+      title: "Hazard communication-Labels and other forms of warning",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
+        "Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Paint, Isopropyl Alcohol, Bleach, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
       id: 12,
       category: "Hazard Communication Standard (HCS)",
-      section: "§ 1910.1200 (b)(5)(v)",
-      title: "Hazard communication exemption",
+      section: "§ 1910.1200 (b)",
+      title: "Hazard communication-Scope and application",
       keywords:
-        "Paint, Isopropyl Alcohol, Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
+        "Sand, Paint, Isopropyl Alcohol, Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
@@ -132,7 +132,7 @@ const RegulatorySearchEngine = () => {
       section: "Appendix D to § 1910.1200",
       title: "Safety Data Sheets (Mandatory)",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
+        "Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Paint, Isopropyl Alcohol, Bleach, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
       link: "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-Z/section-1910.1200",
     },
     {
@@ -349,7 +349,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.100",
       title: "Food exemptions from labeling",
       keywords:
-        "Exemptions, Bulk containers, Retail establishment, Repackaged in a retail establishment, Assortment of different items, Ingredients common to all packages, Uncommon ingredients, Processed, labeled, or repacked, Shipment or other delivery, Insubstantial quantity, Insignificant levels, Sulfiting agent, Common or usual name, Name and place of business, Small packages",
+        "Baking Soda, sodium bicarbonate, Exemptions, Bulk containers, Retail establishment, Repackaged in a retail establishment, Assortment of different items, Ingredients common to all packages, Uncommon ingredients, Processed, labeled, or repacked, Shipment or other delivery, Insubstantial quantity, Insignificant levels, Sulfiting agent, Common or usual name, Name and place of business, Small packages",
       link: "https://www.ecfr.gov/current/title-21/section-101.100",
     },
     {
@@ -379,7 +379,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Food name and place of business of manufacturer, packer, or distributor",
       keywords:
-        "Name and place of business, Manufacturer, Packer, Distributor, Corporate name, Manufactured for, Distributed by, Packed for, Street address, City, State, ZIP code, Conspicuously, Principal display panel, Information panel, Packaged form",
+        "Baking Soda, sodium bicarbonate  Name and place of business, Manufacturer, Packer, Distributor, Corporate name, Manufactured for, Distributed by, Packed for, Street address, City, State, ZIP code, Conspicuously, Principal display panel, Information panel, Packaged form",
       link: "https://www.ecfr.gov/current/title-21/section-101.5",
     },
     {
@@ -398,7 +398,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.9",
       title: "Nutrition labeling of food",
       keywords:
-        "Nutrition Facts, Serving Size, Servings Per Container, Calories, Daily Value (DV), Total Fat, Saturated Fat, Trans Fat, Cholesterol, Sodium, Total Carbohydrate, Dietary Fiber, Total Sugars, Added Sugars, Protein, Vitamin D, Calcium, Iron, Potassium, Dual-column labeling, Reference Daily Intake (RDI), Daily Reference Values (DRV), Common household measures, Insignificant amount, Nutrient content claims",
+        "Baking Soda, sodium bicarbonate, Nutrition Facts, Serving Size, Servings Per Container, Calories, Daily Value (DV), Total Fat, Saturated Fat, Trans Fat, Cholesterol, Sodium, Total Carbohydrate, Dietary Fiber, Total Sugars, Added Sugars, Protein, Vitamin D, Calcium, Iron, Potassium, Dual-column labeling, Reference Daily Intake (RDI), Daily Reference Values (DRV), Common household measures, Insignificant amount, Nutrient content claims",
       link: "https://www.ecfr.gov/current/title-21/section-101.9",
     },
     {
@@ -443,7 +443,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.7",
       title: "Declaration of net quantity of contents",
       keywords:
-        "Net quantity of contents, Principal display panel (PDP), Weight, Net wt., avoirdupois pound (lb), ounce (oz), Fluid measure, Fluid ounce (fl oz), Gallon (gal), Quart (qt), Pint (pt), Net contents, Numerical count, Combination of numerical count and weight or measure, Conspicuous, Legible, Boldface print or type, In distinct contrast, Bottom 30 percent, Parallel to the base, Type size, Common fraction, Decimal fraction, Random package, Abbreviations",
+        "Baking Soda, sodium bicarbonate, Net quantity of contents, Principal display panel (PDP), Weight, Net wt., avoirdupois pound (lb), ounce (oz), Fluid measure, Fluid ounce (fl oz), Gallon (gal), Quart (qt), Pint (pt), Net contents, Numerical count, Combination of numerical count and weight or measure, Conspicuous, Legible, Boldface print or type, In distinct contrast, Bottom 30 percent, Parallel to the base, Type size, Common fraction, Decimal fraction, Random package, Abbreviations",
       link: "https://www.ecfr.gov/current/title-21/section-101.7",
     },
     {
@@ -452,7 +452,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.2",
       title: "Information panel of package form food",
       keywords:
-        "Information panel, Principal display panel (PDP), Immediately contiguous and to the right, Unusable label space, Alternate principal display panels, Top of the container, Single panel, Mandatory label information, Ingredient list, Nutrition labeling, Nutrition Facts, Name and place of business of the manufacturer, packer, or distributor, Net quantity of contents, Allergen declaration, Prominently and conspicuously, Legible type, One-sixteenth inch in height, Type size",
+        "Baking Soda, sodium bicarbonate, Information panel, Principal display panel (PDP), Immediately contiguous and to the right, Unusable label space, Alternate principal display panels, Top of the container, Single panel, Mandatory label information, Ingredient list, Nutrition labeling, Nutrition Facts, Name and place of business of the manufacturer, packer, or distributor, Net quantity of contents, Allergen declaration, Prominently and conspicuously, Legible type, One-sixteenth inch in height, Type size",
       link: "https://www.ecfr.gov/current/title-21/section-101.2",
     },
     {
@@ -461,7 +461,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.1",
       title: "Principal display panel of package form food",
       keywords:
-        "Principal Display Panel (PDP), Alternate Principal Display Panels, Area of the Principal Display Panel, Rectangular Package, Cylindrical or Nearly Cylindrical Container, Otherwise Shaped Container, Exclusions, Mandatory label information, Statement of identity, Net quantity, Clarity and conspicuousness, Without obscuring design, vignettes, or crowding, Duplicated",
+        "Baking Soda, sodium bicarbonate, Principal Display Panel (PDP), Alternate Principal Display Panels, Area of the Principal Display Panel, Rectangular Package, Cylindrical or Nearly Cylindrical Container, Otherwise Shaped Container, Exclusions, Mandatory label information, Statement of identity, Net quantity, Clarity and conspicuousness, Without obscuring design, vignettes, or crowding, Duplicated",
       link: "https://www.ecfr.gov/current/title-21/section-101.1",
     },
     {
@@ -470,7 +470,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.3",
       title: "Identity labeling of food in packaged form",
       keywords:
-        "Statement of the identity, Principal display panel, Common or usual name, Appropriately descriptive term, Fanciful name, Bold type, Reasonably related to the most prominent printed matter, Lines generally parallel to the base, Optional form, Imitation, Dietary supplement",
+        "Baking Soda, sodium bicarbonate, Statement of the identity, Principal display panel, Common or usual name, Appropriately descriptive term, Fanciful name, Bold type, Reasonably related to the most prominent printed matter, Lines generally parallel to the base, Optional form, Imitation, Dietary supplement",
       link: "https://www.ecfr.gov/current/title-21/section-101.3",
     },
     {
@@ -479,7 +479,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.4",
       title: "Food designation of ingredients",
       keywords:
-        "Ingredients, Common or usual name, Descending order of predominance by weight, Principal display panel (PDP), Information panel, Sub-ingredients, Collective name, Spices, Flavorings, Colorings, Chemical preservatives, Specific common or usual name, Hydrogenated, Partially hydrogenated, Contains one or more of the following, Major food allergens",
+        "Baking Soda, sodium bicarbonate, Ingredients, Common or usual name, Descending order of predominance by weight, Principal display panel (PDP), Information panel, Sub-ingredients, Collective name, Spices, Flavorings, Colorings, Chemical preservatives, Specific common or usual name, Hydrogenated, Partially hydrogenated, Contains one or more of the following, Major food allergens",
       link: "https://www.ecfr.gov/current/title-21/section-101.4",
     },
     {
@@ -488,7 +488,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.50",
       title: "Statement of identity",
       keywords:
-        "Isopropyl Alcohol, Statement of identity, Established name, Prescription drug, Insulin-containing drug, Mixture, No established name, Quantitative ingredient information, Principal features, Placement, size, and prominence",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Statement of identity, Established name, Prescription drug, Insulin-containing drug, Mixture, No established name, Quantitative ingredient information, Principal features, Placement, size, and prominence",
       link: "https://www.ecfr.gov/current/title-21/section-201.50",
     },
     {
@@ -497,7 +497,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.51",
       title: "Declaration of net quantity of contents",
       keywords:
-        "Isopropyl Alcohol, Net quantity of contents, Declaration, Weight, Measure, Numerical count, Combination of numerical count and weight or measure, Unit dosage form, Avoirdupois pound, ounce, grain, Kilogram, gram, subdivisions thereof, U.S. gallon, quart, pint, fluid-ounce, fluid-dram, Liter, milliliter, Cubic centimeter, 68 °F (20 °C), Distinct item on the label, Accurate statement, Reasonable variations, Good manufacturing practice, Good distribution practice, Ampules, Vials, Minimum quantity, Excess volume, sample, physician's sample",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Net quantity of contents, Declaration, Weight, Measure, Numerical count, Combination of numerical count and weight or measure, Unit dosage form, Avoirdupois pound, ounce, grain, Kilogram, gram, subdivisions thereof, U.S. gallon, quart, pint, fluid-ounce, fluid-dram, Liter, milliliter, Cubic centimeter, 68 °F (20 °C), Distinct item on the label, Accurate statement, Reasonable variations, Good manufacturing practice, Good distribution practice, Ampules, Vials, Minimum quantity, Excess volume, sample, physician's sample",
       link: "https://www.ecfr.gov/current/title-21/section-201.51",
     },
     {
@@ -515,7 +515,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.10",
       title: "Drugs statement of ingredients",
       keywords:
-        "Isopropyl Alcohol, Ingredient information, Established name, Proprietary name, Active ingredients, Inactive ingredients, Quantity, Percentage, Unit dosage form, Fanciful proprietary name, Misleading, Placement, Prominence",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Ingredient information, Established name, Proprietary name, Active ingredients, Inactive ingredients, Quantity, Percentage, Unit dosage form, Fanciful proprietary name, Misleading, Placement, Prominence",
       link: "https://www.ecfr.gov/current/title-21/section-201.10",
     },
     {
@@ -523,7 +523,7 @@ const RegulatorySearchEngine = () => {
       category: "Drugs: General",
       section: "§ 201.66",
       title:
-        "Isopropyl Alcohol, Format and content requirements for over-the-counter (OTC) drug product labeling",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Format and content requirements for over-the-counter (OTC) drug product labeling",
       keywords:
         "Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
       link: "https://www.ecfr.gov/current/title-21/section-201.66",
@@ -535,7 +535,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Drugs name and place of business of manufacturer, packer, or distributor",
       keywords:
-        "Isopropyl Alcohol, Manufacturer, Packer, Distributor, Name and place of business, Street address, City, State, ZIP Code, Finished package form, Misbranded, Conspicuously, Qualified phrases, Corporate name, Principal place of business",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Manufacturer, Packer, Distributor, Name and place of business, Street address, City, State, ZIP Code, Finished package form, Misbranded, Conspicuously, Qualified phrases, Corporate name, Principal place of business",
       link: "https://www.ecfr.gov/current/title-21/section-201.1",
     },
     {
@@ -544,7 +544,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.5",
       title: "Drugs adequate directions for use",
       keywords:
-        "Isopropyl Alcohol, Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
+        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
       link: "https://www.ecfr.gov/current/title-21/section-201.5",
     },
     {
@@ -613,6 +613,26 @@ const RegulatorySearchEngine = () => {
       keywords:
         "Paint, Lead-containing paint, 0.009 percent, Banned hazardous products, Toys, Articles intended for use by children, Furniture articles, Consumer product, Surface-coating materials, Warning, Contains Lead. Dried Film of This Paint May Be Harmful If Eaten or Chewed",
       link: "https://www.ecfr.gov/current/title-16/part-1303",
+    },
+    {
+      id: 66,
+      category: "Federal Hazardous Substances Act Regulations",
+      section: "PART 1501",
+      title:
+        "—METHOD FOR IDENTIFYING TOYS AND OTHER ARTICLES INTENDED FOR USE BY CHILDREN UNDER 3 YEARS OF AGE WHICH PRESENT CHOKING, ASPIRATION, OR INGESTION HAZARDS BECAUSE OF SMALL PARTS",
+      keywords:
+        "River Rocks, Choking, aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
+      link: "https://www.ecfr.gov/current/title-16/part-1501",
+    },
+    {
+      id: 67,
+      category: "Fair Packaging and Labeling Act",
+      section: "Part 500",
+      title:
+        "—REGULATIONS UNDER SECTION 4 OF THE FAIR PACKAGING AND LABELING ACT",
+      keywords:
+        "Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, sand, rocks, Isopropyl Alcohol, bleach, paint, Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
+      link: "https://www.ecfr.gov/current/title-16/part-500",
     },
   ];
 
