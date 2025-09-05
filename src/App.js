@@ -40,7 +40,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Bleach, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Paint, Isopropyl Alcohol, Bleach, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -49,7 +49,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       keywords:
-        "Bleach, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
+        "Paint, Isopropyl Alcohol, Bleach, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.121",
     },
     {
@@ -59,7 +59,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Products requiring special labeling under section 3(b) of the act",
       keywords:
-        "Bleach, Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
+        "Paint, Bleach, Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
       link: "https://www.ecfr.gov/current/title-16/section-1500.14",
     },
     {
@@ -68,7 +68,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.127",
       title: "Substances with multiple hazards",
       keywords:
-        "Bleach, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
+        "Paint, Isopropyl Alcohol, Bleach, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
       link: "https://www.ecfr.gov/current/title-16/section-1500.127",
     },
     {
@@ -77,7 +77,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.130",
       title: "Self-pressurized containers: labeling",
       keywords:
-        "Self-pressurized container, Warning—Contents under pressure, CAUTION, Do not puncture or incinerate container, Do not expose to heat or store at temperatures above 120 °F, Keep out of the reach of children, Flammable, Extremely flammable, Flashback, Flame projection exceeding 18 inches, Additional hazards, Principal display panel, Other display panel, Read carefully other cautions on the panel",
+        "Isopropyl Alcohol, Self-pressurized container, Warning—Contents under pressure, CAUTION, Do not puncture or incinerate container, Do not expose to heat or store at temperatures above 120 °F, Keep out of the reach of children, Flammable, Extremely flammable, Flashback, Flame projection exceeding 18 inches, Additional hazards, Principal display panel, Other display panel, Read carefully other cautions on the panel",
       link: "https://www.ecfr.gov/current/title-16/section-1500.130",
     },
     {
@@ -114,7 +114,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (f)",
       title: "Hazard communication",
       keywords:
-        "Bleach, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
+        "Paint, Isopropyl Alcohol, Bleach, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
@@ -123,7 +123,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (b)(5)(v)",
       title: "Hazard communication exemption",
       keywords:
-        "Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
+        "Paint, Isopropyl Alcohol, Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
@@ -132,7 +132,7 @@ const RegulatorySearchEngine = () => {
       section: "Appendix D to § 1910.1200",
       title: "Safety Data Sheets (Mandatory)",
       keywords:
-        "Bleach, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
+        "Paint, Isopropyl Alcohol, Bleach, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
       link: "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-Z/section-1910.1200",
     },
     {
@@ -150,7 +150,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.400",
       title: "General labeling requirements",
       keywords:
-        "Bleach, Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
+        "Paint, Isopropyl Alcohol, Bleach, Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
       link: "https://www.ecfr.gov/current/title-49/section-172.400",
     },
     {
@@ -186,7 +186,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.406",
       title: "Placement of labels",
       keywords:
-        "Placement, Surface, Side, Top, End, Not bottom, Near proper shipping name, Same surface, Primary hazard label, Subsidiary hazard label, Next to each other, Unobscured, Clearly visible, Contrast with background, Dotted line border, Solid line border, Duplicate labeling, Two sides, Two ends, Cylinder, Irregular surface, Durable, Weather resistant",
+        "Isopropyl Alcohol, Placement, Surface, Side, Top, End, Not bottom, Near proper shipping name, Same surface, Primary hazard label, Subsidiary hazard label, Next to each other, Unobscured, Clearly visible, Contrast with background, Dotted line border, Solid line border, Duplicate labeling, Two sides, Two ends, Cylinder, Irregular surface, Durable, Weather resistant",
       link: "https://www.ecfr.gov/current/title-49/section-172.406",
     },
     {
@@ -205,7 +205,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.407",
       title: "Label specifications",
       keywords:
-        "Durability, Weather resistant, Design, Diamond, Square-on-point, Inner border, Symbol, Size, 100 mm, Cargo Aircraft Only, Color, Pantone®, Fadeometer test, Black, White, Text, Numbers, Hazard class number, Division number, Label name, Letter height, Exceptions, UN Recommendations, ICAO, IMDG Code, Radioactive trefoil symbol, Form identification",
+        "Isopropyl Alcohol, Durability, Weather resistant, Design, Diamond, Square-on-point, Inner border, Symbol, Size, 100 mm, Cargo Aircraft Only, Color, Pantone®, Fadeometer test, Black, White, Text, Numbers, Hazard class number, Division number, Label name, Letter height, Exceptions, UN Recommendations, ICAO, IMDG Code, Radioactive trefoil symbol, Form identification",
       link: "https://www.ecfr.gov/current/title-49/section-172.407",
     },
     {
@@ -232,7 +232,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.504",
       title: "General placarding requirements",
       keywords:
-        "Bleach, Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
+        "Paint, Isopropyl Alcohol, Bleach, Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
       link: "https://www.ecfr.gov/current/title-49/section-172.504",
     },
     {
@@ -331,7 +331,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.205",
       title: "Labeling",
       keywords:
-        "Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
+        "Paint, Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
       link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.205",
     },
     {
@@ -340,7 +340,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.405",
       title: "Container labeling requirements",
       keywords:
-        "Date the coating was manufactured, Date code, Thinning recommendations, VOC content, Grams of VOC per liter, Pounds of VOC per gallon, VOC content limit, Industrial maintenance coating, For industrial use only, For professional use only, Not for residential use, Specific use conditions, Immersion in water or chemicals, Exposure to corrosive/caustic/acidic agents, High-temperature exposure (above 120 °C), Heavy abrasion, Exterior exposure of metal structures, Recycled coating, Post-consumer coating content",
+        "Paint, Date the coating was manufactured, Date code, Thinning recommendations, VOC content, Grams of VOC per liter, Pounds of VOC per gallon, VOC content limit, Industrial maintenance coating, For industrial use only, For professional use only, Not for residential use, Specific use conditions, Immersion in water or chemicals, Exposure to corrosive/caustic/acidic agents, High-temperature exposure (above 120 °C), Heavy abrasion, Exterior exposure of metal structures, Recycled coating, Post-consumer coating content",
       link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.205",
     },
     {
@@ -488,7 +488,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.50",
       title: "Statement of identity",
       keywords:
-        "Statement of identity, Established name, Prescription drug, Insulin-containing drug, Mixture, No established name, Quantitative ingredient information, Principal features, Placement, size, and prominence",
+        "Isopropyl Alcohol, Statement of identity, Established name, Prescription drug, Insulin-containing drug, Mixture, No established name, Quantitative ingredient information, Principal features, Placement, size, and prominence",
       link: "https://www.ecfr.gov/current/title-21/section-201.50",
     },
     {
@@ -497,7 +497,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.51",
       title: "Declaration of net quantity of contents",
       keywords:
-        "Net quantity of contents, Declaration, Weight, Measure, Numerical count, Combination of numerical count and weight or measure, Unit dosage form, Avoirdupois pound, ounce, grain, Kilogram, gram, subdivisions thereof, U.S. gallon, quart, pint, fluid-ounce, fluid-dram, Liter, milliliter, Cubic centimeter, 68 °F (20 °C), Distinct item on the label, Accurate statement, Reasonable variations, Good manufacturing practice, Good distribution practice, Ampules, Vials, Minimum quantity, Excess volume, sample, physician's sample",
+        "Isopropyl Alcohol, Net quantity of contents, Declaration, Weight, Measure, Numerical count, Combination of numerical count and weight or measure, Unit dosage form, Avoirdupois pound, ounce, grain, Kilogram, gram, subdivisions thereof, U.S. gallon, quart, pint, fluid-ounce, fluid-dram, Liter, milliliter, Cubic centimeter, 68 °F (20 °C), Distinct item on the label, Accurate statement, Reasonable variations, Good manufacturing practice, Good distribution practice, Ampules, Vials, Minimum quantity, Excess volume, sample, physician's sample",
       link: "https://www.ecfr.gov/current/title-21/section-201.51",
     },
     {
@@ -506,7 +506,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.15",
       title: "Drugs prominence of required label statements",
       keywords:
-        "Prominence, Conspicuousness, Typography, Layout, Contrast, Printing features, Customary conditions of purchase, Label space, Smallness or style of type, Obscuring designs or vignettes, Crowding with other written, printed, or graphic matter, Foreign language",
+        "Isopropyl Alcohol, Prominence, Conspicuousness, Typography, Layout, Contrast, Printing features, Customary conditions of purchase, Label space, Smallness or style of type, Obscuring designs or vignettes, Crowding with other written, printed, or graphic matter, Foreign language",
       link: "https://www.ecfr.gov/current/title-21/section-201.15",
     },
     {
@@ -515,7 +515,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.10",
       title: "Drugs statement of ingredients",
       keywords:
-        "Ingredient information, Established name, Proprietary name, Active ingredients, Inactive ingredients, Quantity, Percentage, Unit dosage form, Fanciful proprietary name, Misleading, Placement, Prominence",
+        "Isopropyl Alcohol, Ingredient information, Established name, Proprietary name, Active ingredients, Inactive ingredients, Quantity, Percentage, Unit dosage form, Fanciful proprietary name, Misleading, Placement, Prominence",
       link: "https://www.ecfr.gov/current/title-21/section-201.10",
     },
     {
@@ -523,7 +523,7 @@ const RegulatorySearchEngine = () => {
       category: "Drugs: General",
       section: "§ 201.66",
       title:
-        "Format and content requirements for over-the-counter (OTC) drug product labeling",
+        "Isopropyl Alcohol, Format and content requirements for over-the-counter (OTC) drug product labeling",
       keywords:
         "Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
       link: "https://www.ecfr.gov/current/title-21/section-201.66",
@@ -535,7 +535,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Drugs name and place of business of manufacturer, packer, or distributor",
       keywords:
-        "Manufacturer, Packer, Distributor, Name and place of business, Street address, City, State, ZIP Code, Finished package form, Misbranded, Conspicuously, Qualified phrases, Corporate name, Principal place of business",
+        "Isopropyl Alcohol, Manufacturer, Packer, Distributor, Name and place of business, Street address, City, State, ZIP Code, Finished package form, Misbranded, Conspicuously, Qualified phrases, Corporate name, Principal place of business",
       link: "https://www.ecfr.gov/current/title-21/section-201.1",
     },
     {
@@ -544,7 +544,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.5",
       title: "Drugs adequate directions for use",
       keywords:
-        "Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
+        "Isopropyl Alcohol, Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
       link: "https://www.ecfr.gov/current/title-21/section-201.5",
     },
     {
@@ -583,7 +583,7 @@ const RegulatorySearchEngine = () => {
       title:
         "—Volatile Organic Compound (VOC), Content Limits for Architectural Coatings",
       keywords:
-        "Volatile Organic Compound (VOC), Content Limits, Architectural Coatings, Thinned to the manufacturer's maximum recommendation, Coating Categories, Flat coatings, Nonflat coatings, Primers, Sealers, Undercoaters, Specialty coatings, Antenna coatings, Concrete protective coatings, Industrial maintenance coatings, Lacquers, Roof coatings, Rust preventative coatings, Stains, Varnishes, Wood preservatives, Grams VOC per liter, Pounds VOC per gallon, Compliance, Exempt compounds",
+        "Paint, Volatile Organic Compound (VOC), Content Limits, Architectural Coatings, Thinned to the manufacturer's maximum recommendation, Coating Categories, Flat coatings, Nonflat coatings, Primers, Sealers, Undercoaters, Specialty coatings, Antenna coatings, Concrete protective coatings, Industrial maintenance coatings, Lacquers, Roof coatings, Rust preventative coatings, Stains, Varnishes, Wood preservatives, Grams VOC per liter, Pounds VOC per gallon, Compliance, Exempt compounds",
       link: "https://www.ecfr.gov/current/title-40/part-59/appendix-Table%201%20to%20Subpart%20D%20of%20Part%2059",
     },
     {
@@ -603,6 +603,16 @@ const RegulatorySearchEngine = () => {
       keywords:
         "Bleach, Non-target organisms, Hazard statements, Precautionary statements, Pesticide is toxic to..., Extremely toxic, Lethal dose (LD50), Lethal concentration (LC50), Aquatic applications, Pollinating insects, Contaminate water, Disposal of wastes",
       link: "https://www.ecfr.gov/current/title-40/section-156.85",
+    },
+    {
+      id: 65,
+      category: "Consumer Product Safety Act Regulations",
+      section: "PART 1303",
+      title:
+        "Ban of Lead-Containing Paint and Certain Consumer Products Bearing Lead-Containing Paint",
+      keywords:
+        "Paint, Lead-containing paint, 0.009 percent, Banned hazardous products, Toys, Articles intended for use by children, Furniture articles, Consumer product, Surface-coating materials, Warning, Contains Lead. Dried Film of This Paint May Be Harmful If Eaten or Chewed",
+      link: "https://www.ecfr.gov/current/title-16/part-1303",
     },
   ];
 
