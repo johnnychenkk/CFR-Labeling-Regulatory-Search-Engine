@@ -903,12 +903,6 @@ const RegulatorySearchEngine = () => {
                           <ExternalLink className="h-4 w-4 text-gray-400 mt-1 flex-shrink-0" />
                         </h2>
                       </a>
-                      <div className="text-sm text-gray-600">
-                        <strong className="text-gray-800">Keywords:</strong>{" "}
-                        <span className="leading-relaxed">
-                          {highlightText(item.keywords, searchQuery)}
-                        </span>
-                      </div>
                     </div>
                   </div>
                 </div>
