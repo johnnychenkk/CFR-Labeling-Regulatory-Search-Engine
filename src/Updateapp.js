@@ -41,7 +41,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Bleach, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -314,7 +314,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.144",
       title: "Residue removal instructions—general",
       keywords:
-        "Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
+        "Bleach, Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
       link: "https://www.ecfr.gov/current/title-40/section-156.144",
     },
     {
@@ -593,7 +593,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.78",
       title: "Precautionary statements for physical or chemical hazards",
       keywords:
-        "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
+        "Bleach, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
       link: "https://www.ecfr.gov/current/title-40/section-156.78",
     },
     {
