@@ -41,7 +41,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Bleach, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Bleach, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -50,7 +50,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       keywords:
-        "Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
+        "Pit Balls, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.121",
     },
     {
@@ -60,7 +60,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Products requiring special labeling under section 3(b) of the act",
       keywords:
-        "Paint, Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
+        "Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
       link: "https://www.ecfr.gov/current/title-16/section-1500.14",
     },
     {
@@ -69,7 +69,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.127",
       title: "Substances with multiple hazards",
       keywords:
-        "Wiper Fluid, Bleach, Acidic Toilet Bowl Cleaner, Paint, Isopropyl Alcohol, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
+        "Wiper Fluid, Bleach, Acidic Toilet Bowl Cleaner, Isopropyl Alcohol, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
       link: "https://www.ecfr.gov/current/title-16/section-1500.127",
     },
     {
@@ -332,7 +332,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.205",
       title: "Labeling",
       keywords:
-        "Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
+        "Paint, Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
       link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.205",
     },
     {
@@ -622,7 +622,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Method for Identifying Toys and Other Articles Intended for Use by Children Under 3 Years of Age Which Present Choking, Aspiration, or Ingestion Hazards Because of Small Parts",
       keywords:
-        "Decorative River Rocks, Choking, aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
+        "Pit Balls, Decorative River Rocks, Choking, aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
       link: "https://www.ecfr.gov/current/title-16/part-1501",
     },
     {
@@ -642,7 +642,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Prohibition of Children's Toys and Child Care Articles Containing Specified Phthalates",
       keywords:
-        "Pit Balls for Toddlers, Children's toys, Child care article, Prohibited, Specified phthalates, Concentrations of more than 0.1 percent, DEHP, DBP, BBP, DINP, DIBP, DPENP, DHEXP, DCHP, Plasticized component part, Other component part",
+        "Pit Balls, Children's toys, Child care article, Prohibited, Specified phthalates, Concentrations of more than 0.1 percent, DEHP, DBP, BBP, DINP, DIBP, DPENP, DHEXP, DCHP, Plasticized component part, Other component part",
       link: "https://www.ecfr.gov/current/title-16/part-1307",
     },
     {
@@ -651,7 +651,7 @@ const RegulatorySearchEngine = () => {
       section: "Subpart C",
       title: "—Certification of Children's Products",
       keywords:
-        "Pit Balls for Toddlers, Children's products, Children's Product Certificate (CPC), Certification, Third-party testing, Periodic testing, Material change, Compliance, Manufacturer/Importer, Recordkeeping",
+        "Pit Balls, Children's products, Children's Product Certificate (CPC), Certification, Third-party testing, Periodic testing, Material change, Compliance, Manufacturer/Importer, Recordkeeping",
       link: "https://www.ecfr.gov/current/title-16/part-1107/subpart-C",
     },
     {
@@ -660,8 +660,18 @@ const RegulatorySearchEngine = () => {
       section: "Part 1250",
       title: "Safety Standard Mandating ASTM F963 for Toys",
       keywords:
-        "Pit Balls for Toddlers, ASTM F963, Toy, WARNING, Choking hazard, Small parts, Age grading, Labeling, Not for children under, Read instructions before use, Adult supervision required, Manufacturer or distributor name and address, Country of origin",
+        "Pit Balls, ASTM F963, Toy, WARNING, Choking hazard, Small parts, Age grading, Labeling, Not for children under, Read instructions before use, Adult supervision required, Manufacturer or distributor name and address, Country of origin",
       link: "https://www.ecfr.gov/current/title-16/part-1250",
+    },
+    {
+      id: 71,
+      category: "Consumer Product Safety Act",
+      section: "16 CFR § 1500.18",
+      title:
+        "Banned toys and other banned articles intended for use by children",
+      keywords:
+        "Pit Balls, Banned toys, Mechanical hazards, Choking, Aspiration, Ingestion hazard, Small parts, Toy rattle, Rigid wires, Sharp protrusions, Sharp metal edge, Sharp glass edge, Sharp point, Noisemaking components, Clacker balls, Infant cushion, Infant pillow, Dive sticks, Dive rings, Balloons, Marbles, Small balls",
+      link: "https://www.ecfr.gov/current/title-16/section-1500.18",
     },
   ];
 
