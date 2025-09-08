@@ -22,7 +22,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.19",
       title: "Misbranded toys and other articles intended for use by children",
       keywords:
-        "River Rocks, Sand, WARNING, SAFETY WARNING, CHOKING HAZARD, Small part, Small ball, Latex balloon, Marble, Labeling statements, Descriptive material, English language, Conspicuous and legible type, Typography layout or color, Solid background, Square or rectangular area, Toy or game, Children's products, Age of intended user, Not for children under 3 yrs., Not for under 8 yrs.",
+        "Pit Balls for Toddlers, Decorative River Rocks, Sand, WARNING, SAFETY WARNING, CHOKING HAZARD, Small part, Small ball, Latex balloon, Marble, Labeling statements, Descriptive material, English language, Conspicuous and legible type, Typography layout or color, Solid background, Square or rectangular area, Toy or game, Children's products, Age of intended user, Not for children under 3 yrs., Not for under 8 yrs.",
       link: "https://www.ecfr.gov/current/title-16/section-1500.19",
     },
     {
@@ -41,7 +41,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Bleach, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -50,7 +50,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       keywords:
-        "River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Bleach, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
+        "Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.121",
     },
     {
@@ -60,7 +60,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Products requiring special labeling under section 3(b) of the act",
       keywords:
-        "Paint, Bleach, Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
+        "Paint, Diethylene glycol, Ethylene glycol, Methyl alcohol, Benzene, Toluene, Xylene, Petroleum Distillates, Turpentine, Charcoal, Fireworks devices, Fountains, Roman Candles, Rockets with sticks, Sparklers, Art materials, Signal word, DANGER, WARNING, CAUTION, Skull and crossbones symbol, POISON, Statement of hazard, Precautionary measures, Age-related supervision, Physical state, Concentration range",
       link: "https://www.ecfr.gov/current/title-16/section-1500.14",
     },
     {
@@ -69,7 +69,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.127",
       title: "Substances with multiple hazards",
       keywords:
-        "Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Bleach, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
+        "Wiper Fluid, Bleach, Acidic Toilet Bowl Cleaner, Paint, Isopropyl Alcohol, Multiple hazards, Affirmative statement of each such hazard, Precautionary measures, Instructions, Combined statement, Parallel information, Condensed statement, Toxic, Flammable",
       link: "https://www.ecfr.gov/current/title-16/section-1500.127",
     },
     {
@@ -87,7 +87,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.129",
       title: "Substances named in the Federal Caustic Poison Act",
       keywords:
-        "Soda Ash, sodium carbonate, Bleach, POISON, Principal hazard, Highly toxic, Chemical name, Concentration, Hydrochloric acid, Sulfuric acid, Nitric acid, Carbolic acid, Phenol, Oxalic acid, Potassium hydroxide, Caustic potash, Sodium hydroxide, Caustic soda, Lye, Silver nitrate, Ammonia water, Ammonium hydroxide, Acetic acid, First-aid treatment, Misbranded parcel package or container",
+        "Bleach, Acidic Toilet Bowl Cleaner, POISON, Principal hazard, Highly toxic, Chemical name, Concentration, Hydrochloric acid, Sulfuric acid, Nitric acid, Carbolic acid, Phenol, Oxalic acid, Potassium hydroxide, Caustic potash, Sodium hydroxide, Caustic soda, Lye, Silver nitrate, Ammonia water, Ammonium hydroxide, Acetic acid, First-aid treatment, Misbranded parcel package or container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.129",
     },
     {
@@ -106,7 +106,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Labeling consumer products to indicate that the certification requirements of section 14 of the CPSA have been met",
       keywords:
-        "Uniform label, Provided with the product, CPSC, Meets CPSC Safety Requirements, Visible and legible, Certification requirements, Consumer product safety rule, Manufacturer, Private labeler, Does not alter or mislead, Not an endorsement",
+        "Pit Balls for Toddlers, Uniform label, Provided with the product, CPSC, Meets CPSC Safety Requirements, Visible and legible, Certification requirements, Consumer product safety rule, Manufacturer, Private labeler, Does not alter or mislead, Not an endorsement",
       link: "https://www.ecfr.gov/current/title-16/section-1107.30",
     },
     {
@@ -115,7 +115,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (f)",
       title: "Hazard communication-Labels and other forms of warning",
       keywords:
-        "Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Paint, Isopropyl Alcohol, Bleach, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
+        "Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Decorative River Rocks, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
@@ -124,7 +124,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (b)",
       title: "Hazard communication-Scope and application",
       keywords:
-        "Sand, Paint, Isopropyl Alcohol, Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
+        "Soda Ash, sodium carbonate, Sand, Isopropyl Alcohol, Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
     },
     {
@@ -133,17 +133,17 @@ const RegulatorySearchEngine = () => {
       section: "Appendix D to § 1910.1200",
       title: "Safety Data Sheets (Mandatory)",
       keywords:
-        "Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Paint, Isopropyl Alcohol, Bleach, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
+        "Wiper Fluid, Acidic Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
       link: "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-Z/section-1910.1200",
     },
     {
       id: 14,
-      category: "Flammable liquids",
-      section: "§ 1910.106 (d)(3)",
-      title: "Design, construction, and capacity of storage cabinets",
+      category: "Hazardous Materials Regulations (DOT)",
+      section: "§ 173.150",
+      title: "Exceptions for Class 3 (flammable and combustible liquids)",
       keywords:
-        "Maximum capacity, 60 gallons, 120 gallons, Flammable liquids, Fire resistance, Internal temperature, Double walled, No. 18 gage sheet iron/steel, Joints/seams, Three-point lock, Door sill, Labeling, Flammable - Keep Fire Away, Wooden cabinets, Vents",
-      link: "https://www.ecfr.gov/current/title-29/part-1910/section-1910.106#p-1910.106%28d%29%283%29",
+        "Isopropyl Alcohol, Limited Quantity, Inner packaging, Strong outer packaging, Flammable liquid, Combustible liquid, Flash point, Ethyl alcohol, Beverages, Food, Cosmetics, Medicines, Non-bulk packaging",
+      link: "https://www.ecfr.gov/current/title-49/section-173.150",
     },
     {
       id: 15,
@@ -151,7 +151,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.400",
       title: "General labeling requirements",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
+        "Wiper Fluid, Acidic Toilet Bowl Cleaner, Isopropyl Alcohol, Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
       link: "https://www.ecfr.gov/current/title-49/section-172.400",
     },
     {
@@ -160,7 +160,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.401",
       title: "Prohibited labeling",
       keywords:
-        "Prohibited labeling, Hazardous material, Represents a hazard, Confused with, Conflict with a label, Prohibited label, Misbranding, Offer for transportation, Transport a package, Unused, Cleaned and purged, Not visible during transportation, Labeled in conformance with, UN Recommendations, IMDG Code, ICAO Technical Instructions, TDG Regulations, GHS",
+        "Acidic Toilet Bowl Cleaner, Prohibited labeling, Hazardous material, Represents a hazard, Confused with, Conflict with a label, Prohibited label, Misbranding, Offer for transportation, Transport a package, Unused, Cleaned and purged, Not visible during transportation, Labeled in conformance with, UN Recommendations, IMDG Code, ICAO Technical Instructions, TDG Regulations, GHS",
       link: "https://www.ecfr.gov/current/title-49/section-172.401",
     },
     {
@@ -169,7 +169,7 @@ const RegulatorySearchEngine = () => {
       section: "§§ 172.521 - 172.560",
       title: "Specific placard requirements",
       keywords:
-        "Placard, General specifications, Strength and durability, Design, Size, Inner border, Color, Symbol, Text, Hazard class, Division number, DANGEROUS placard, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, POISON GAS placard, FLAMMABLE GAS placard, NON-FLAMMABLE GAS placard, OXYGEN placard, FLAMMABLE placard, COMBUSTIBLE placard, FLAMMABLE SOLID placard, SPONTANEOUSLY COMBUSTIBLE placard, DANGEROUS WHEN WET placard, OXIDIZER placard, ORGANIC PEROXIDE placard, POISON placard, POISON INHALATION HAZARD placard, RADIOACTIVE placard, CORROSIVE placard, CLASS 9 placard, UN/NA Identification number, Bulk packaging, Freight container, Transport vehicle, Principal display panel",
+        "Acidic Toilet Bowl Cleaner, Placard, General specifications, Strength and durability, Design, Size, Inner border, Color, Symbol, Text, Hazard class, Division number, DANGEROUS placard, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, POISON GAS placard, FLAMMABLE GAS placard, NON-FLAMMABLE GAS placard, OXYGEN placard, FLAMMABLE placard, COMBUSTIBLE placard, FLAMMABLE SOLID placard, SPONTANEOUSLY COMBUSTIBLE placard, DANGEROUS WHEN WET placard, OXIDIZER placard, ORGANIC PEROXIDE placard, POISON placard, POISON INHALATION HAZARD placard, RADIOACTIVE placard, CORROSIVE placard, CLASS 9 placard, UN/NA Identification number, Bulk packaging, Freight container, Transport vehicle, Principal display panel",
       link: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-172/subpart-F",
     },
     {
@@ -178,7 +178,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.402",
       title: "Additional labeling requirements",
       keywords:
-        "Subsidiary hazard labels, Primary hazard, Hazard class, Division number, Cargo Aircraft Only label, Class 7 (Radioactive) Materials, Fissile label, Explosives (Class 1), Poison, Poison Inhalation Hazard, Flammable Gas, Oxidizer, Corrosive, Package, Overpack, Proper shipping name, § 172.101 Table, Column 6",
+        "Acidic Toilet Bowl Cleaner, Subsidiary hazard labels, Primary hazard, Hazard class, Division number, Cargo Aircraft Only label, Class 7 (Radioactive) Materials, Fissile label, Explosives (Class 1), Poison, Poison Inhalation Hazard, Flammable Gas, Oxidizer, Corrosive, Package, Overpack, Proper shipping name, § 172.101 Table, Column 6",
       link: "https://www.ecfr.gov/current/title-49/section-172.402",
     },
     {
@@ -206,7 +206,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.407",
       title: "Label specifications",
       keywords:
-        "Isopropyl Alcohol, Durability, Weather resistant, Design, Diamond, Square-on-point, Inner border, Symbol, Size, 100 mm, Cargo Aircraft Only, Color, Pantone®, Fadeometer test, Black, White, Text, Numbers, Hazard class number, Division number, Label name, Letter height, Exceptions, UN Recommendations, ICAO, IMDG Code, Radioactive trefoil symbol, Form identification",
+        "Acidic Toilet Bowl Cleaner, Isopropyl Alcohol, Durability, Weather resistant, Design, Diamond, Square-on-point, Inner border, Symbol, Size, 100 mm, Cargo Aircraft Only, Color, Pantone®, Fadeometer test, Black, White, Text, Numbers, Hazard class number, Division number, Label name, Letter height, Exceptions, UN Recommendations, ICAO, IMDG Code, Radioactive trefoil symbol, Form identification",
       link: "https://www.ecfr.gov/current/title-49/section-172.407",
     },
     {
@@ -215,7 +215,7 @@ const RegulatorySearchEngine = () => {
       section: "§§ 172.411 to 172.450",
       title: "Individual hazard label",
       keywords:
-        "Label, Hazard Class, Division, Subsidiary label, Symbol, Hazard Class Number, Compatibility Group Letter, EXPLOSIVE 1.1, EXPLOSIVE 1.2, EXPLOSIVE 1.3, EXPLOSIVE 1.4, EXPLOSIVE 1.5, EXPLOSIVE 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON, POISON INHALATION HAZARD, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY",
+        "Acidic Toilet Bowl Cleaner, Label, Hazard Class, Division, Subsidiary label, Symbol, Hazard Class Number, Compatibility Group Letter, EXPLOSIVE 1.1, EXPLOSIVE 1.2, EXPLOSIVE 1.3, EXPLOSIVE 1.4, EXPLOSIVE 1.5, EXPLOSIVE 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON, POISON INHALATION HAZARD, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY",
       link: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-172/subpart-E",
     },
     {
@@ -233,7 +233,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.504",
       title: "General placarding requirements",
       keywords:
-        "Paint, Isopropyl Alcohol, Bleach, Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
+        "Wiper Fluid, Acidic Toilet Bowl Cleaner, Isopropyl Alcohol, Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
       link: "https://www.ecfr.gov/current/title-49/section-172.504",
     },
     {
@@ -242,7 +242,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.519",
       title: "General specifications for placards",
       keywords:
-        "Placard, Strength and durability, 30-day exposure to open weather, Tagboard, Mullen test, Reflective materials, Retroreflective materials, Design, Inner border, Symbol, Hazard class, Division number, Size, Minimum dimensions, Letter height, Color, Color tolerances, Fadeometer test, Form identification",
+        "Acidic Toilet Bowl Cleaner, Placard, Strength and durability, 30-day exposure to open weather, Tagboard, Mullen test, Reflective materials, Retroreflective materials, Design, Inner border, Symbol, Hazard class, Division number, Size, Minimum dimensions, Letter height, Color, Color tolerances, Fadeometer test, Form identification",
       link: "https://www.ecfr.gov/current/title-49/section-172.519",
     },
     {
@@ -260,7 +260,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.10",
       title: "Labeling requirements",
       keywords:
-        "Bleach, Name, Brand, Trademark, Producer, Registrant, Person for whom produced, Net contents, EPA Registration Number (EPA Reg. No.), EPA Establishment Number (EPA Est. No.), Signal word, DANGER, WARNING, CAUTION, POISON, Skull and crossbones symbol, Keep out of the reach of children, Precautionary statements, First aid instructions, Environmental hazards, Personal Protective Equipment (PPE), Labeling, Principal display panel, Conspicuous, Legible, English language, Ingredient statement, Directions for Use, Misbranding, False statements, Misleading statements, Storage statements, Disposal statements",
+        "Acidic Toilet Bowl Cleaner, Bleach, Name, Brand, Trademark, Producer, Registrant, Person for whom produced, Net contents, EPA Registration Number (EPA Reg. No.), EPA Establishment Number (EPA Est. No.), Signal word, DANGER, WARNING, CAUTION, POISON, Skull and crossbones symbol, Keep out of the reach of children, Precautionary statements, First aid instructions, Environmental hazards, Personal Protective Equipment (PPE), Labeling, Principal display panel, Conspicuous, Legible, English language, Ingredient statement, Directions for Use, Misbranding, False statements, Misleading statements, Storage statements, Disposal statements",
       link: "https://www.ecfr.gov/current/title-40/section-156.10",
     },
     {
@@ -269,7 +269,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.64",
       title: "Signal word",
       keywords:
-        "Bleach, Signal word, DANGER, WARNING, CAUTION, POISON, Toxicity Category I, Toxicity Category II, Toxicity Category III, Toxicity Category IV, Front panel, Conspicuous, All capital letters, Acute toxicity, Routes of exposure, Oral, Dermal, Inhalation, Eye irritation, Skin irritation, Child hazard warning, Keep Out of Reach of Children",
+        "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Signal word, DANGER, WARNING, CAUTION, POISON, Toxicity Category I, Toxicity Category II, Toxicity Category III, Toxicity Category IV, Front panel, Conspicuous, All capital letters, Acute toxicity, Routes of exposure, Oral, Dermal, Inhalation, Eye irritation, Skin irritation, Child hazard warning, Keep Out of Reach of Children",
       link: "https://www.ecfr.gov/current/title-40/section-156.64",
     },
     {
@@ -278,7 +278,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.66",
       title: "Child hazard warning",
       keywords:
-        "Bleach, Keep Out of Reach of Children, Front panel, Signal word, Separate line, Alternative statement, Waived, Toxicity Category IV, Industrial use product, Impregnated pet collar",
+        "Bleach, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Keep Out of Reach of Children, Front panel, Signal word, Separate line, Alternative statement, Waived, Toxicity Category IV, Industrial use product, Impregnated pet collar",
       link: "https://www.ecfr.gov/current/title-40/section-156.66",
     },
     {
@@ -287,7 +287,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.68",
       title: "First aid statements",
       keywords:
-        "Bleach, First Aid, Statement of Practical Treatment, Systemic effects, Skin or eye irritation, Toxicity Category I, II, III, Routes of exposure, Note to Physician, Front panel, See first aid statement on back panel, Any panel, Legible, Conspicuous",
+        "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, First Aid, Statement of Practical Treatment, Systemic effects, Skin or eye irritation, Toxicity Category I, II, III, Routes of exposure, Note to Physician, Front panel, See first aid statement on back panel, Any panel, Legible, Conspicuous",
       link: "https://www.ecfr.gov/current/title-40/section-156.68",
     },
     {
@@ -296,7 +296,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.70",
       title: "Precautionary statements for human hazards",
       keywords:
-        "Bleach, Precautionary Statements, Human Hazards, Domestic Animals, Signal Word, DANGER, WARNING, CAUTION, POISON, Skull and Crossbones, First Aid Statement, Hazard Statements, Fatal if swallowed/inhaled/absorbed, Corrosive, Causes eye and skin damage, Causes eye/skin irritation, Route(s) of exposure, Precautionary Measures, Do not breathe vapor/dust/mist, Do not get in eyes/skin/clothing, Wear goggles/face shield/rubber gloves, Personal Protective Equipment (PPE), Toxicity Category I, II, III, IV, Irritation effects, Sensitizer, Acute hazard, Use dilution",
+        "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Precautionary Statements, Human Hazards, Domestic Animals, Signal Word, DANGER, WARNING, CAUTION, POISON, Skull and Crossbones, First Aid Statement, Hazard Statements, Fatal if swallowed/inhaled/absorbed, Corrosive, Causes eye and skin damage, Causes eye/skin irritation, Route(s) of exposure, Precautionary Measures, Do not breathe vapor/dust/mist, Do not get in eyes/skin/clothing, Wear goggles/face shield/rubber gloves, Personal Protective Equipment (PPE), Toxicity Category I, II, III, IV, Irritation effects, Sensitizer, Acute hazard, Use dilution",
       link: "https://www.ecfr.gov/current/title-40/section-156.70",
     },
     {
@@ -314,7 +314,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.144",
       title: "Residue removal instructions—general",
       keywords:
-        "Bleach, Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
+        "Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
       link: "https://www.ecfr.gov/current/title-40/section-156.144",
     },
     {
@@ -332,7 +332,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.205",
       title: "Labeling",
       keywords:
-        "Paint, Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
+        "Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
       link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.205",
     },
     {
@@ -342,7 +342,7 @@ const RegulatorySearchEngine = () => {
       title: "Container labeling requirements",
       keywords:
         "Paint, Date the coating was manufactured, Date code, Thinning recommendations, VOC content, Grams of VOC per liter, Pounds of VOC per gallon, VOC content limit, Industrial maintenance coating, For industrial use only, For professional use only, Not for residential use, Specific use conditions, Immersion in water or chemicals, Exposure to corrosive/caustic/acidic agents, High-temperature exposure (above 120 °C), Heavy abrasion, Exterior exposure of metal structures, Recycled coating, Post-consumer coating content",
-      link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.205",
+      link: "https://www.ecfr.gov/current/title-40/section-59.405",
     },
     {
       id: 37,
@@ -593,7 +593,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.78",
       title: "Precautionary statements for physical or chemical hazards",
       keywords:
-        "Bleach, Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
+        "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
       link: "https://www.ecfr.gov/current/title-40/section-156.78",
     },
     {
@@ -602,7 +602,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.85",
       title: "Non-target organisms",
       keywords:
-        "Bleach, Non-target organisms, Hazard statements, Precautionary statements, Pesticide is toxic to..., Extremely toxic, Lethal dose (LD50), Lethal concentration (LC50), Aquatic applications, Pollinating insects, Contaminate water, Disposal of wastes",
+        "Non-target organisms, Hazard statements, Precautionary statements, Pesticide is toxic to..., Extremely toxic, Lethal dose (LD50), Lethal concentration (LC50), Aquatic applications, Pollinating insects, Contaminate water, Disposal of wastes",
       link: "https://www.ecfr.gov/current/title-40/section-156.85",
     },
     {
@@ -622,7 +622,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Method for Identifying Toys and Other Articles Intended for Use by Children Under 3 Years of Age Which Present Choking, Aspiration, or Ingestion Hazards Because of Small Parts",
       keywords:
-        "River Rocks, Choking, aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
+        "Decorative River Rocks, Choking, aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
       link: "https://www.ecfr.gov/current/title-16/part-1501",
     },
     {
@@ -632,8 +632,36 @@ const RegulatorySearchEngine = () => {
       title:
         "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
       keywords:
-        "Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, sand, rocks, Isopropyl Alcohol, bleach, paint, Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
+        "Decorative River Rocks, Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
       link: "https://www.ecfr.gov/current/title-16/part-500",
+    },
+    {
+      id: 68,
+      category: "Consumer Product Safety Act",
+      section: "Part 1307",
+      title:
+        "Prohibition of Children's Toys and Child Care Articles Containing Specified Phthalates",
+      keywords:
+        "Pit Balls for Toddlers, Children's toys, Child care article, Prohibited, Specified phthalates, Concentrations of more than 0.1 percent, DEHP, DBP, BBP, DINP, DIBP, DPENP, DHEXP, DCHP, Plasticized component part, Other component part",
+      link: "https://www.ecfr.gov/current/title-16/part-1307",
+    },
+    {
+      id: 69,
+      category: "Consumer Product Safety Act",
+      section: "Subpart C",
+      title: "—Certification of Children's Products",
+      keywords:
+        "Pit Balls for Toddlers, Children's products, Children's Product Certificate (CPC), Certification, Third-party testing, Periodic testing, Material change, Compliance, Manufacturer/Importer, Recordkeeping",
+      link: "https://www.ecfr.gov/current/title-16/part-1107/subpart-C",
+    },
+    {
+      id: 70,
+      category: "Consumer Product Safety Act",
+      section: "Part 1250",
+      title: "Safety Standard Mandating ASTM F963 for Toys",
+      keywords:
+        "Pit Balls for Toddlers, ASTM F963, Toy, WARNING, Choking hazard, Small parts, Age grading, Labeling, Not for children under, Read instructions before use, Adult supervision required, Manufacturer or distributor name and address, Country of origin",
+      link: "https://www.ecfr.gov/current/title-16/part-1250",
     },
   ];
 
@@ -647,25 +675,36 @@ const RegulatorySearchEngine = () => {
 
   const products = useMemo(() => {
     const allProducts = new Set();
+    // Add manual products first
+    const manualProducts = [
+      "Bleach",
+      "Sodium bicarbonate",
+      "Sodium carbonate",
+      "Sand",
+      "Paint",
+      "Decorative River Rocks",
+      "Isopropyl Alcohol",
+      "Pit Balls",
+      "Acidic Toilet Bowl Cleaner",
+      "Non-Acidic Toilet Bowl Cleaner",
+      "Wiper Fluid",
+    ];
+
+    manualProducts.forEach((product) => allProducts.add(product));
+
+    // Then extract from regulatory data
     regulatoryData.forEach((item) => {
-      // Extract product names from keywords
       const keywords = item.keywords.toLowerCase();
+
       if (keywords.includes("bleach")) allProducts.add("Bleach");
-      if (keywords.includes("paint")) allProducts.add("Paint");
       if (
         keywords.includes("soda ash") ||
         keywords.includes("sodium carbonate")
       )
-        allProducts.add("Sodium Carbonate");
-      if (
-        keywords.includes("baking soda") ||
-        keywords.includes("sodium bicarbonate")
-      )
-        allProducts.add("Sodium bicarbonate");
-      if (keywords.includes("isopropyl alcohol"))
-        allProducts.add("Isopropyl Alcohol");
-      if (keywords.includes("sand")) allProducts.add("Sand");
+        if (keywords.includes("isopropyl alcohol"))
+          allProducts.add("Isopropyl Alcohol");
       if (keywords.includes("river rocks")) allProducts.add("River Rocks");
+      if (keywords.includes("Pit Balls")) allProducts.add("Pit Balls");
     });
     return Array.from(allProducts).sort();
   }, []);
