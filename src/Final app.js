@@ -44,7 +44,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)(14)",
       keywords:
-        "Bleach, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
+        "Reef Salt, Bleach, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Sand, Soda Ash, sodium carbonate, Isopropyl Alcohol, Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
       link: "https://www.ecfr.gov/current/title-16/part-1500/section-1500.3#p-1500.3(b)(14)",
     },
     {
@@ -53,7 +53,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       keywords:
-        "Pit Balls, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
+        "Reef Salt, Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol, Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
       link: "https://www.ecfr.gov/current/title-16/section-1500.121",
     },
     {
@@ -529,7 +529,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Format and content requirements for over-the-counter (OTC) drug product labeling",
       keywords:
-        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
+        "Epsom Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
       link: "https://www.ecfr.gov/current/title-21/section-201.66",
     },
     {
@@ -548,7 +548,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.5",
       title: "Drugs adequate directions for use",
       keywords:
-        "Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
+        "Epsom Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol, Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
       link: "https://www.ecfr.gov/current/title-21/section-201.5",
     },
     {
@@ -635,7 +635,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
       keywords:
-        "Decorative River Rocks, Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
+        "Reef Salt, Decorative River Rocks, Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
       link: "https://www.ecfr.gov/current/title-16/part-500",
     },
     {
@@ -676,6 +676,34 @@ const RegulatorySearchEngine = () => {
         "Pit Balls, Banned toys, Mechanical hazards, Choking, Aspiration, Ingestion hazard, Small parts, Toy rattle, Rigid wires, Sharp protrusions, Sharp metal edge, Sharp glass edge, Sharp point, Noisemaking components, Clacker balls, Infant cushion, Infant pillow, Dive sticks, Dive rings, Balloons, Marbles, Small balls",
       link: "https://www.ecfr.gov/current/title-16/section-1500.18",
     },
+    {
+      id: 72,
+      category: "Cosmetics",
+      section: "Subpart B",
+      title: "Package Form",
+      keywords:
+        "Epsom Salt, Dead Sea Salt, Principal Display Panel (PDP), Net Quantity of Contents, Statement of Identity, Name and Place of Business, Declaration of Responsibility, English Language, Prominent and Conspicuous, Metric System, U.S. Customary, Standardized Measure, Oversize Packaging, Servings per Container",
+      link: "https://www.ecfr.gov/current/title-21/part-701/subpart-B",
+    },
+    {
+      id: 73,
+      category: "Cosmetics",
+      section: "§ 701.3",
+      title: "Designation of ingredients",
+      keywords:
+        "Epsom Salt, Dead Sea Salt, Declaration of Ingredients, Descending Order of Predominance, Fragrance, Flavor, Commonly Understood by Consumers, Prominence and Conspicuousness, Information Panel, Ingredients, May Contain, Ingredient Name",
+      link: "https://www.ecfr.gov/current/title-21/section-701.3",
+    },
+    {
+      id: 74,
+      category: "Drugs: General",
+      section: "§ 201.312",
+      title:
+        "Magnesium sulfate heptahydrate; label declaration on drug products",
+      keywords:
+        "Epsom Salt, Magnesium sulfate heptahydrate, common or usual name",
+      link: "https://www.ecfr.gov/current/title-21/section-201.312",
+    },
   ];
 
   // Get unique categories and products for filters
@@ -691,8 +719,8 @@ const RegulatorySearchEngine = () => {
     // Add manual products first
     const manualProducts = [
       "Bleach",
-      "Sodium bicarbonate",
-      "Sodium carbonate",
+      "Sodium Bicarbonate",
+      "Sodium Carbonate",
       "Sand",
       "Paint",
       "Decorative River Rocks",
@@ -701,6 +729,9 @@ const RegulatorySearchEngine = () => {
       "Acidic Toilet Bowl Cleaner",
       "Non-Acidic Toilet Bowl Cleaner",
       "Wiper Fluid",
+      "Dead Sea Salt",
+      "Epsom Salt",
+      "Reef Salt",
     ];
 
     manualProducts.forEach((product) => allProducts.add(product));
