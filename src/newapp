@@ -757,20 +757,57 @@ const RegulatorySearchEngine = () => {
     setSearchQuery(e.target.value);
   };
   const fetchContent = async (link) => {
+    setLoadingContent(true);
     try {
-      setLoadingContent(true);
       const response = await fetch(
-        `https://api.allorigins.win/raw?url=${encodeURIComponent(link)}`
+        `https://api.allorigins.win/get?url=${encodeURIComponent(link)}`
       );
-      const html = await response.text();
-      setSelectedContent(html);
+      const data = await response.json();
+      let text = data.contents;
+
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(text, "text/html");
+
+      // Find ANY element that starts with §
+      const allEls = doc.querySelectorAll("h1, h2, h3, div, p");
+      let targetEl = null;
+
+      for (let el of allEls) {
+        if (el.textContent.trim().startsWith("§")) {
+          targetEl = el;
+          break;
+        }
+      }
+
+      if (targetEl) {
+        // Collect that element + everything after until a "Details" or "Enhanced Content" section
+        let html = targetEl.outerHTML;
+        let next = targetEl.nextElementSibling;
+
+        while (
+          next &&
+          !next.textContent.includes("Enhanced Content") &&
+          !next.textContent.includes("Details") &&
+          !next.textContent.includes("Print/PDF")
+        ) {
+          html += next.outerHTML;
+          next = next.nextElementSibling;
+        }
+
+        text = html.trim();
+      } else {
+        text = "<p>Could not find law section starting with §.</p>";
+      }
+
+      setSelectedContent(text);
     } catch (error) {
-      setSelectedContent("Failed to load content.");
-      console.error(error);
+      console.error("Failed to fetch content:", error);
+      setSelectedContent("<p>Failed to load content.</p>");
     } finally {
       setLoadingContent(false);
     }
   };
+
   const clearSearch = () => {
     setSearchQuery("");
     setSelectedCategory("all");
