@@ -177,6 +177,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 173.150",
       title: "Exceptions for Class 3 (flammable and combustible liquids)",
       Product: "Isopropyl Alcohol",
+      Standard: "Transportation",
       keywords:
         "Limited Quantity, Inner packaging, Strong outer packaging, Flammable liquid, Combustible liquid, Flash point, Ethyl alcohol, Beverages, Food, Cosmetics, Medicines, Non-bulk packaging",
       link: "https://www.ecfr.gov/current/title-49/section-173.150",
@@ -187,6 +188,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.400",
       title: "General labeling requirements",
       Product: "Wiper Fluid, Toilet Bowl Cleaner, Isopropyl Alcohol",
+      Standard: "Transportation",
       keywords:
         "Hazardous material, Label, Labeling requirements, Hazard class, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON INHALATION HAZARD, POISON, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY, Primary hazard, Subsidiary hazard, Overpack, Bulk packaging, Non-bulk package, Offer for transportation, Transports, Exceptions from labeling, Package, Consolidated packaging, Hazardous Materials Table",
       link: "https://www.ecfr.gov/current/title-49/section-172.400",
@@ -197,6 +199,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.401",
       title: "Prohibited labeling",
       Product: "Toilet Bowl Cleaner",
+      Standard: "Transportation",
       keywords:
         "Prohibited labeling, Hazardous material, Represents a hazard, Confused with, Conflict with a label, Prohibited label, Misbranding, Offer for transportation, Transport a package, Unused, Cleaned and purged, Not visible during transportation, Labeled in conformance with, UN Recommendations, IMDG Code, ICAO Technical Instructions, TDG Regulations, GHS",
       link: "https://www.ecfr.gov/current/title-49/section-172.401",
@@ -207,6 +210,7 @@ const RegulatorySearchEngine = () => {
       section: "§§ 172.521 - 172.560",
       title: "Specific placard requirements",
       Product: "Toilet Bowl Cleaner",
+      Standard: "Transportation",
       keywords:
         "Placard, General specifications, Strength and durability, Design, Size, Inner border, Color, Symbol, Text, Hazard class, Division number, DANGEROUS placard, EXPLOSIVES 1.1, EXPLOSIVES 1.2, EXPLOSIVES 1.3, EXPLOSIVES 1.4, EXPLOSIVES 1.5, EXPLOSIVES 1.6, POISON GAS placard, FLAMMABLE GAS placard, NON-FLAMMABLE GAS placard, OXYGEN placard, FLAMMABLE placard, COMBUSTIBLE placard, FLAMMABLE SOLID placard, SPONTANEOUSLY COMBUSTIBLE placard, DANGEROUS WHEN WET placard, OXIDIZER placard, ORGANIC PEROXIDE placard, POISON placard, POISON INHALATION HAZARD placard, RADIOACTIVE placard, CORROSIVE placard, CLASS 9 placard, UN/NA Identification number, Bulk packaging, Freight container, Transport vehicle, Principal display panel",
       link: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-172/subpart-F",
@@ -217,6 +221,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.402",
       title: "Additional labeling requirements",
       Product: "Toilet Bowl Cleaner",
+      Standard: "Transportation",
       keywords:
         "Subsidiary hazard labels, Primary hazard, Hazard class, Division number, Cargo Aircraft Only label, Class 7 (Radioactive) Materials, Fissile label, Explosives (Class 1), Poison, Poison Inhalation Hazard, Flammable Gas, Oxidizer, Corrosive, Package, Overpack, Proper shipping name, § 172.101 Table, Column 6",
       link: "https://www.ecfr.gov/current/title-49/section-172.402",
@@ -227,6 +232,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.406",
       title: "Placement of labels",
       Product: "Isopropyl Alcohol",
+      Standard: "Transportation",
       keywords:
         "Placement, Surface, Side, Top, End, Not bottom, Near proper shipping name, Same surface, Primary hazard label, Subsidiary hazard label, Next to each other, Unobscured, Clearly visible, Contrast with background, Dotted line border, Solid line border, Duplicate labeling, Two sides, Two ends, Cylinder, Irregular surface, Durable, Weather resistant",
       link: "https://www.ecfr.gov/current/title-49/section-172.406",
@@ -238,6 +244,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Applicability of Hazardous Materials Regulations (HMR) to persons and functions",
       Product: "",
+      Standard: "Transportation",
       keywords:
         "Person, Individual, Firm, Corporation, Government, Offeror, Carrier, Shipper, Packaging manufacturer, Reconditioner, Pre-transportation functions, Transportation functions, In commerce, Movement, Loading incidental to movement, Unloading incidental to movement, Determining hazard class, Selecting packaging, Filling packaging, Marking, Labeling, Preparing shipping papers, Providing emergency response information",
       link: "https://www.ecfr.gov/current/title-49/section-171.1",
@@ -248,6 +255,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.407",
       title: "Label specifications",
       Product: "Toilet Bowl Cleaner, Isopropyl Alcohol",
+      Standard: "Transportation",
       keywords:
         "Durability, Weather resistant, Design, Diamond, Square-on-point, Inner border, Symbol, Size, 100 mm, Cargo Aircraft Only, Color, Pantone®, Fadeometer test, Black, White, Text, Numbers, Hazard class number, Division number, Label name, Letter height, Exceptions, UN Recommendations, ICAO, IMDG Code, Radioactive trefoil symbol, Form identification",
       link: "https://www.ecfr.gov/current/title-49/section-172.407",
@@ -258,6 +266,7 @@ const RegulatorySearchEngine = () => {
       section: "§§ 172.411 to 172.450",
       title: "Individual hazard label",
       Product: "Toilet Bowl Cleaner",
+      Standard: "Transportation",
       keywords:
         "Label, Hazard Class, Division, Subsidiary label, Symbol, Hazard Class Number, Compatibility Group Letter, EXPLOSIVE 1.1, EXPLOSIVE 1.2, EXPLOSIVE 1.3, EXPLOSIVE 1.4, EXPLOSIVE 1.5, EXPLOSIVE 1.6, FLAMMABLE GAS, NON-FLAMMABLE GAS, POISON GAS, FLAMMABLE LIQUID, FLAMMABLE SOLID, SPONTANEOUSLY COMBUSTIBLE, DANGEROUS WHEN WET, OXIDIZER, ORGANIC PEROXIDE, POISON, POISON INHALATION HAZARD, INFECTIOUS SUBSTANCE, RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, RADIOACTIVE YELLOW-III, FISSILE, CORROSIVE, CLASS 9, LITHIUM BATTERY, CARGO AIRCRAFT ONLY, EMPTY",
       link: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-172/subpart-E",
@@ -268,6 +277,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 178.3",
       title: "Marking of packagings",
       Product: "",
+      Standard: "Transportation",
       keywords:
         "UN standard, DOT specification, Marking, Manufacturer, Specification markings, Durable, Legible, Permanent form, Non-removable component, Unobstructed area, UN symbol, UN packaging code, Packing Group, X, Y, Z, Specific gravity, Test pressure, S, Gross mass, Year of manufacture, State authorizing allocation, Reconditioner, R",
       link: "https://www.ecfr.gov/current/title-49/section-178.3",
@@ -278,6 +288,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.504",
       title: "General placarding requirements",
       Product: "Wiper Fluid, Toilet Bowl Cleaner, Isopropyl Alcohol",
+      Standard: "Transportation",
       keywords:
         "Placard, Placarding requirements, Hazard class, Division, Table 1, Table 2, Bulk packaging, Non-bulk packaging, Transport vehicle, Rail car, Aggregate gross weight, Less than 454 kg, Any quantity, Each side, Each end, DANGEROUS placard, Permissive placarding, Subsidiary hazards, Poison Inhalation Hazard, PIH, ID number, UN number, NA number, Orange panel, White square-on-point, General specifications for placards, Size, Color, Durability",
       link: "https://www.ecfr.gov/current/title-49/section-172.504",
@@ -288,6 +299,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 172.519",
       title: "General specifications for placards",
       Product: "Toilet Bowl Cleaner",
+      Standard: "Transportation",
       keywords:
         "Placard, Strength and durability, 30-day exposure to open weather, Tagboard, Mullen test, Reflective materials, Retroreflective materials, Design, Inner border, Symbol, Hazard class, Division number, Size, Minimum dimensions, Letter height, Color, Color tolerances, Fadeometer test, Form identification",
       link: "https://www.ecfr.gov/current/title-49/section-172.519",
@@ -298,6 +310,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 178.503",
       title: "Marking of packagings",
       Product: "",
+      Standard: "Transportation",
       keywords:
         "UN symbol, Packaging identification code, 1A1, 4G, 6HA1, Packing Group, Packaging Group, X, Y, Z, Specific gravity, Gross mass, Hydrostatic test pressure, S, Year of manufacture, State authorizing the mark, Manufacturer's name, Manufacturer's address, Manufacturer's symbol, Reconditioning marks, R, Durable, Legible, Readily visible, Permanent form",
       link: "https://www.ecfr.gov/current/title-49/section-178.503",
@@ -309,6 +322,7 @@ const RegulatorySearchEngine = () => {
       title: "Labeling requirements",
       Product: "Toilet Bowl Cleaner, Bleach",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Name, Brand, Trademark, Producer, Registrant, Person for whom produced, Net contents, EPA Registration Number (EPA Reg. No.), EPA Establishment Number (EPA Est. No.), Signal word, DANGER, WARNING, CAUTION, POISON, Skull and crossbones symbol, Keep out of the reach of children, Precautionary statements, First aid instructions, Environmental hazards, Personal Protective Equipment (PPE), Labeling, Principal display panel, Conspicuous, Legible, English language, Ingredient statement, Directions for Use, Misbranding, False statements, Misleading statements, Storage statements, Disposal statements",
       link: "https://www.ecfr.gov/current/title-40/section-156.10",
@@ -320,6 +334,7 @@ const RegulatorySearchEngine = () => {
       title: "Signal word",
       Product: "Toilet Bowl Cleaner, Bleach",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Signal word, DANGER, WARNING, CAUTION, POISON, Toxicity Agency I, Toxicity Agency II, Toxicity Agency III, Toxicity Agency IV, Front panel, Conspicuous, All capital letters, Acute toxicity, Routes of exposure, Oral, Dermal, Inhalation, Eye irritation, Skin irritation, Child hazard warning, Keep Out of Reach of Children",
       link: "https://www.ecfr.gov/current/title-40/section-156.64",
@@ -331,6 +346,7 @@ const RegulatorySearchEngine = () => {
       title: "Child hazard warning",
       Product: "Bleach, Toilet Bowl Cleaner",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Keep Out of Reach of Children, Front panel, Signal word, Separate line, Alternative statement, Waived, Toxicity Agency IV, Industrial use product, Impregnated pet collar",
       link: "https://www.ecfr.gov/current/title-40/section-156.66",
@@ -342,6 +358,7 @@ const RegulatorySearchEngine = () => {
       title: "First aid statements",
       Product: "Toilet Bowl Cleaner, Bleach",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "First Aid, Statement of Practical Treatment, Systemic effects, Skin or eye irritation, Toxicity Agency I, II, III, Routes of exposure, Note to Physician, Front panel, See first aid statement on back panel, Any panel, Legible, Conspicuous",
       link: "https://www.ecfr.gov/current/title-40/section-156.68",
@@ -353,6 +370,7 @@ const RegulatorySearchEngine = () => {
       title: "Precautionary statements for human hazards",
       Product: "Toilet Bowl Cleaner, Bleach",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Precautionary Statements, Human Hazards, Domestic Animals, Signal Word, DANGER, WARNING, CAUTION, POISON, Skull and Crossbones, First Aid Statement, Hazard Statements, Fatal if swallowed/inhaled/absorbed, Corrosive, Causes eye and skin damage, Causes eye/skin irritation, Route(s) of exposure, Precautionary Measures, Do not breathe vapor/dust/mist, Do not get in eyes/skin/clothing, Wear goggles/face shield/rubber gloves, Personal Protective Equipment (PPE), Toxicity Agency I, II, III, IV, Irritation effects, Sensitizer, Acute hazard, Use dilution",
       link: "https://www.ecfr.gov/current/title-40/section-156.70",
@@ -364,6 +382,7 @@ const RegulatorySearchEngine = () => {
       title: "Identification of container types",
       Product: "",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Nonrefillable container, Nonrefillable container statement, Do not reuse or refill this container, Do not reuse this container to hold materials other than pesticides, Refillable container, Refillable container statement, Refill this container with pesticide only, Do not reuse this container for any other purpose, Batch code, Storage and Disposal, Durable marking, Exemptions, Aerosol cans, One-time use tubes, Foil packets, Recycling statement, Offer for recycling if available, Reconditioning statement, Offer for reconditioning if appropriate",
       link: "https://www.ecfr.gov/current/title-40/section-156.140",
@@ -375,6 +394,7 @@ const RegulatorySearchEngine = () => {
       title: "Residue removal instructions—general",
       Product: "Bleach",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
       link: "https://www.ecfr.gov/current/title-40/section-156.144",
@@ -385,6 +405,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.202",
       title: "Definitions",
       Product: "",
+      Standard: "VOC",
       keywords:
         "Administrator, Aerosol cooking spray, Agricultural use, Air freshener, Bathroom and tile cleaner, Charcoal lighter material, Consumer product, Contact adhesive, Distributor, Double-phase aerosol air freshener, Fabric protectant, Flea and tick insecticide, Flying bug insecticide, Fragrance, High-volatility organic compound (HVOC), Volatile organic compound (VOC)",
       link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.202",
@@ -395,6 +416,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.205",
       title: "Labeling",
       Product: "Paint",
+      Standard: "VOC",
       keywords:
         "Container or package, Clearly display, Day, month, and year of manufacture, Code indicating date, Charcoal lighter material, Sampling the product, Volatile organic compounds (VOCs)",
       link: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-59/subpart-C/section-59.205",
@@ -405,6 +427,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 59.405",
       title: "Container labeling requirements",
       Product: "Paint",
+      Standard: "VOC",
       keywords:
         "Date the coating was manufactured, Date code, Thinning recommendations, VOC content, Grams of VOC per liter, Pounds of VOC per gallon, VOC content limit, Industrial maintenance coating, For industrial use only, For professional use only, Not for residential use, Specific use conditions, Immersion in water or chemicals, Exposure to corrosive/caustic/acidic agents, High-temperature exposure (above 120 °C), Heavy abrasion, Exterior exposure of metal structures, Recycled coating, Post-consumer coating content",
       link: "https://www.ecfr.gov/current/title-40/section-59.405",
@@ -699,6 +722,7 @@ const RegulatorySearchEngine = () => {
       title:
         "—Volatile Organic Compound (VOC), Content Limits for Architectural Coatings",
       Product: "Paint",
+      Standard: "VOC",
       keywords:
         "Volatile Organic Compound (VOC), Content Limits, Architectural Coatings, Thinned to the manufacturer's maximum recommendation, Coating Agencies, Flat coatings, Nonflat coatings, Primers, Sealers, Undercoaters, Specialty coatings, Antenna coatings, Concrete protective coatings, Industrial maintenance coatings, Lacquers, Roof coatings, Rust preventative coatings, Stains, Varnishes, Wood preservatives, Grams VOC per liter, Pounds VOC per gallon, Compliance, Exempt compounds",
       link: "https://www.ecfr.gov/current/title-40/part-59/appendix-Table%201%20to%20Subpart%20D%20of%20Part%2059",
@@ -710,6 +734,7 @@ const RegulatorySearchEngine = () => {
       title: "Precautionary statements for physical or chemical hazards",
       Product: "Bleach, Toilet Bowl Cleaner",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
       link: "https://www.ecfr.gov/current/title-40/section-156.78",
@@ -721,6 +746,7 @@ const RegulatorySearchEngine = () => {
       title: "Non-target organisms",
       Product: "",
       Standard: "Technical / Industrial",
+      Standard: "EPA",
       keywords:
         "Non-target organisms, Hazard statements, Precautionary statements, Pesticide is toxic, Extremely toxic, Lethal dose (LD50), Lethal concentration (LC50), Aquatic applications, Pollinating insects, Contaminate water, Disposal of wastes",
       link: "https://www.ecfr.gov/current/title-40/section-156.85",
@@ -1022,9 +1048,7 @@ const RegulatorySearchEngine = () => {
             Regulatory Search Engine
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Search through comprehensive regulatory requirements across Federal
-            Hazardous Substances Act, DOT Regulations, Pesticide Programs, Food
-            Labeling, Drug Regulations, and more.
+            Search through comprehensive regulatory requirements across CFR.
           </p>
         </div>
 
