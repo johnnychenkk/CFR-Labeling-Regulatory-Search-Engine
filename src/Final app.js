@@ -137,7 +137,7 @@ const RegulatorySearchEngine = () => {
     },
     {
       id: 11,
-      Agency: "Hazard Communication Standard (HCS)",
+      Agency: "Occupational Safety and Health Standards",
       section: "§ 1910.1200 (f)",
       title: "Hazard communication-Labels and other forms of warning",
       Product:
@@ -149,7 +149,7 @@ const RegulatorySearchEngine = () => {
     },
     {
       id: 12,
-      Agency: "Hazard Communication Standard (HCS)",
+      Agency: "Occupational Safety and Health Standards",
       section: "§ 1910.1200 (b)",
       title: "Hazard communication-Scope and application",
       Product:
@@ -161,7 +161,7 @@ const RegulatorySearchEngine = () => {
     },
     {
       id: 13,
-      Agency: "Hazard Communication Standard (HCS)",
+      Agency: "Occupational Safety and Health Standards",
       section: "Appendix D to § 1910.1200",
       title: "Safety Data Sheets (Mandatory)",
       Product:
@@ -863,9 +863,18 @@ const RegulatorySearchEngine = () => {
         "Magnesium sulfate heptahydrate; label declaration on drug products",
       Product: "Epsom Salt",
       Standard: "USP",
-      keywords:
-        "Epsom Salt, Magnesium sulfate heptahydrate, common or usual name",
+      keywords: "Magnesium sulfate heptahydrate, common or usual name",
       link: "https://www.ecfr.gov/current/title-21/section-201.312",
+    },
+    {
+      id: 75,
+      Agency: "Occupational Safety and Health Standards",
+      section: "§ 1910.1053",
+      title: "Respirable crystalline silica",
+      Product: "Sand, Decorative River Rocks",
+      Standard: "Technical / Industrial",
+      keywords: "silica",
+      link: "https://www.ecfr.gov/current/title-29/section-1910.1053",
     },
   ];
 
@@ -1060,7 +1069,7 @@ const RegulatorySearchEngine = () => {
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 h-5 w-5" />
               <input
                 type="text"
-                placeholder="Search regulations, keywords, sections, or requirements..."
+                placeholder="Search regulations, keywords, sections or requirements..."
                 value={searchQuery}
                 onChange={handleSearch}
                 className="w-full pl-12 pr-12 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 text-lg"
