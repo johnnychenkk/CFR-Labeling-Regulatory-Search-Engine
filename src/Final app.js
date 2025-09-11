@@ -12,6 +12,7 @@ const RegulatorySearchEngine = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedAgency, setSelectedAgency] = useState("all");
   const [selectedProduct, setSelectedProduct] = useState("all");
+  const [selectedGrade, setSelectedGrade] = useState("all");
   const [showFilters, setShowFilters] = useState(false);
   const [selectedContent, setSelectedContent] = useState("");
   const [loadingContent, setLoadingContent] = useState(false);
@@ -132,6 +133,7 @@ const RegulatorySearchEngine = () => {
       title: "Hazard communication-Labels and other forms of warning",
       Product:
         "Wiper Fluid, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Decorative River Rocks, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "Technical",
       keywords:
         "Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
@@ -142,6 +144,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (b)",
       title: "Hazard communication-Scope and application",
       Product: "Soda Ash, sodium carbonate, Sand, Isopropyl Alcohol",
+      Grade: "Technical",
       keywords:
         "Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1200",
@@ -153,6 +156,7 @@ const RegulatorySearchEngine = () => {
       title: "Safety Data Sheets (Mandatory)",
       Product:
         "Wiper Fluid, Acidic Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "Technical",
       keywords:
         "Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
       link: "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-Z/section-1910.1200",
@@ -294,6 +298,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.10",
       title: "Labeling requirements",
       Product: "Acidic Toilet Bowl Cleaner, Bleach",
+      Grade: "Technical",
       keywords:
         "Name, Brand, Trademark, Producer, Registrant, Person for whom produced, Net contents, EPA Registration Number (EPA Reg. No.), EPA Establishment Number (EPA Est. No.), Signal word, DANGER, WARNING, CAUTION, POISON, Skull and crossbones symbol, Keep out of the reach of children, Precautionary statements, First aid instructions, Environmental hazards, Personal Protective Equipment (PPE), Labeling, Principal display panel, Conspicuous, Legible, English language, Ingredient statement, Directions for Use, Misbranding, False statements, Misleading statements, Storage statements, Disposal statements",
       link: "https://www.ecfr.gov/current/title-40/section-156.10",
@@ -305,6 +310,7 @@ const RegulatorySearchEngine = () => {
       title: "Signal word",
       Product:
         "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach",
+      Grade: "Technical",
       keywords:
         "Signal word, DANGER, WARNING, CAUTION, POISON, Toxicity Agency I, Toxicity Agency II, Toxicity Agency III, Toxicity Agency IV, Front panel, Conspicuous, All capital letters, Acute toxicity, Routes of exposure, Oral, Dermal, Inhalation, Eye irritation, Skin irritation, Child hazard warning, Keep Out of Reach of Children",
       link: "https://www.ecfr.gov/current/title-40/section-156.64",
@@ -316,6 +322,7 @@ const RegulatorySearchEngine = () => {
       title: "Child hazard warning",
       Product:
         "Bleach, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner",
+      Grade: "Technical",
       keywords:
         "Keep Out of Reach of Children, Front panel, Signal word, Separate line, Alternative statement, Waived, Toxicity Agency IV, Industrial use product, Impregnated pet collar",
       link: "https://www.ecfr.gov/current/title-40/section-156.66",
@@ -327,6 +334,7 @@ const RegulatorySearchEngine = () => {
       title: "First aid statements",
       Product:
         "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach",
+      Grade: "Technical",
       keywords:
         "First Aid, Statement of Practical Treatment, Systemic effects, Skin or eye irritation, Toxicity Agency I, II, III, Routes of exposure, Note to Physician, Front panel, See first aid statement on back panel, Any panel, Legible, Conspicuous",
       link: "https://www.ecfr.gov/current/title-40/section-156.68",
@@ -338,6 +346,7 @@ const RegulatorySearchEngine = () => {
       title: "Precautionary statements for human hazards",
       Product:
         "Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner, Bleach",
+      Grade: "Technical",
       keywords:
         "Precautionary Statements, Human Hazards, Domestic Animals, Signal Word, DANGER, WARNING, CAUTION, POISON, Skull and Crossbones, First Aid Statement, Hazard Statements, Fatal if swallowed/inhaled/absorbed, Corrosive, Causes eye and skin damage, Causes eye/skin irritation, Route(s) of exposure, Precautionary Measures, Do not breathe vapor/dust/mist, Do not get in eyes/skin/clothing, Wear goggles/face shield/rubber gloves, Personal Protective Equipment (PPE), Toxicity Agency I, II, III, IV, Irritation effects, Sensitizer, Acute hazard, Use dilution",
       link: "https://www.ecfr.gov/current/title-40/section-156.70",
@@ -348,6 +357,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.140",
       title: "Identification of container types",
       Product: "",
+      Grade: "Technical",
       keywords:
         "Nonrefillable container, Nonrefillable container statement, Do not reuse or refill this container, Do not reuse this container to hold materials other than pesticides, Refillable container, Refillable container statement, Refill this container with pesticide only, Do not reuse this container for any other purpose, Batch code, Storage and Disposal, Durable marking, Exemptions, Aerosol cans, One-time use tubes, Foil packets, Recycling statement, Offer for recycling if available, Reconditioning statement, Offer for reconditioning if appropriate",
       link: "https://www.ecfr.gov/current/title-40/section-156.140",
@@ -358,6 +368,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.144",
       title: "Residue removal instructions—general",
       Product: "Bleach",
+      Grade: "Technical",
       keywords:
         "Residue removal instructions, Container disposal, Storage and Disposal, Nonrefillable containers, Refillable containers, Dilutable",
       link: "https://www.ecfr.gov/current/title-40/section-156.144",
@@ -398,6 +409,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.100",
       title: "Food exemptions from labeling",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Exemptions, Bulk containers, Retail establishment, Repackaged in a retail establishment, Assortment of different items, Ingredients common to all packages, Uncommon ingredients, Processed, labeled, or repacked, Shipment or other delivery, Insubstantial quantity, Insignificant levels, Sulfiting agent, Common or usual name, Name and place of business, Small packages",
       link: "https://www.ecfr.gov/current/title-21/section-101.100",
@@ -409,6 +421,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Circumstances in which the owner, operator, or agent in charge of a manufacturing/processing facility is not required to implement a preventive control",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "Hazard requiring a preventive control, Preventive control, Could not be consumed, Raw agricultural commodities, Rely on your customer, Written assurance, Subsequent distribution step, Documentation, System that ensures control",
       link: "https://www.ecfr.gov/current/title-21/section-117.136",
@@ -420,6 +433,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Foods labeling of spices, flavorings, colorings and chemical preservatives",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "Spices, Spice and coloring, Natural flavor, Natural flavoring, Artificial flavor, Artificial flavoring, Chemical preservative, Preservative, Artificial coloring, Artificial color, Color added, Colored with ____, Common or usual name, Specific artificial color, Natural and artificial, Characterizing flavor, Artificial smoke flavor",
       link: "https://www.ecfr.gov/current/title-21/section-101.22",
@@ -431,6 +445,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Food name and place of business of manufacturer, packer, or distributor",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Name and place of business, Manufacturer, Packer, Distributor, Corporate name, Manufactured for, Distributed by, Packed for, Street address, City, State, ZIP code, Conspicuously, Principal display panel, Information panel, Packaged form",
       link: "https://www.ecfr.gov/current/title-21/section-101.5",
@@ -442,6 +457,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Percentage juice declaration for foods purporting to be beverages that contain fruit or vegetable juice",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "Purport to be a beverage, Percentage juice declaration, Contains ___ percent juice, Less than 1 percent juice, Zero (0) percent juice, 100 percent juice, From concentrate, Flavor, Flavored, Vignette, Ingredient statement, Principal display panel (PDP), Information panel",
       link: "https://www.ecfr.gov/current/title-21/section-101.30",
@@ -452,6 +468,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.9",
       title: "Nutrition labeling of food",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Nutrition Facts, Serving Size, Servings Per Container, Calories, Daily Value (DV), Total Fat, Saturated Fat, Trans Fat, Cholesterol, Sodium, Total Carbohydrate, Dietary Fiber, Total Sugars, Added Sugars, Protein, Vitamin D, Calcium, Iron, Potassium, Dual-column labeling, Reference Daily Intake (RDI), Daily Reference Values (DRV), Common household measures, Insignificant amount, Nutrient content claims",
       link: "https://www.ecfr.gov/current/title-21/section-101.9",
@@ -462,6 +479,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.17",
       title: "Food labeling warning, notice, and safe handling statements",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "WARNING, Self-pressurized containers, Avoid spraying in eyes, Contents under pressure, Do not puncture or incinerate, Keep out of reach of children, Halocarbon or hydrocarbon propellants, Intentional misuse, Very low calorie protein diets, Not for use by infants, children, or pregnant or nursing women, Iron-containing products, Accidental overdose, Call a doctor or poison control center immediately, Dry or incompletely hydrated psyllium husk, Choking, Unpasteurized juice, Harmful bacteria, Serious illness in children, the elderly, and persons with weakened immune systems, Safe handling instructions, Detained in accordance with regulations, Principal display panel, Information panel, Conspicuously, Prominently",
       link: "https://www.ecfr.gov/current/title-21/section-101.17",
@@ -472,6 +490,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 117.135",
       title: "Preventive controls",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "Preventive controls, Hazards requiring a preventive control, Adulterated food, Written preventive controls, Process controls, Critical control points (CCPs), Food allergen controls, Sanitation controls, Environmental pathogens, Supply-chain controls, Recall plan, Other controls, Monitoring, Corrective actions, Verification",
       link: "https://www.ecfr.gov/current/title-21/section-117.135",
@@ -482,6 +501,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 117.130",
       title: "Hazard analysis",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "Hazard analysis, Known or reasonably foreseeable hazards, Biological hazards, Microbiological hazards, Chemical hazards, Radiological hazards, Pesticide residues, Drug residues, Natural toxins, Decomposition, Unapproved food additives, Unapproved color additives, Food allergens, Physical hazards, Stones, Glass, Metal fragments, Hazard identification, Hazard evaluation, Severity, Probability, Preventive controls, Ready-to-eat (RTE) food, Economic gain, Written analysis, Raw materials, Other ingredients, Manufacturing/processing procedures, Packaging and labeling activities, Intended or reasonably foreseeable use, Sanitation, Employee hygiene",
       link: "https://www.ecfr.gov/current/title-21/section-117.130",
@@ -492,6 +512,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 117.80",
       title: "Processes and controls",
       Product: "",
+      Grade: "Food/FCC",
       keywords:
         "Sanitary operations, Controls, Preventing adulteration, Food, Food-contact surfaces, Packaging, Raw materials, Ingredients, Pest exclusion, Hazard analysis, Preventive controls, Good Manufacturing Practices (GMPs), Personnel, Hygiene, Plant design, Facilities, Equipment, Utensils, Waste disposal, Separation, Water supply",
       link: "https://www.ecfr.gov/current/title-21/section-117.80",
@@ -502,6 +523,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.7",
       title: "Declaration of net quantity of contents",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Net quantity of contents, Principal display panel (PDP), Weight, Net wt., avoirdupois pound (lb), ounce (oz), Fluid measure, Fluid ounce (fl oz), Gallon (gal), Quart (qt), Pint (pt), Net contents, Numerical count, Combination of numerical count and weight or measure, Conspicuous, Legible, Boldface print or type, In distinct contrast, Bottom 30 percent, Parallel to the base, Type size, Common fraction, Decimal fraction, Random package, Abbreviations",
       link: "https://www.ecfr.gov/current/title-21/section-101.7",
@@ -512,6 +534,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.2",
       title: "Information panel of package form food",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Information panel, Principal display panel (PDP), Immediately contiguous and to the right, Unusable label space, Alternate principal display panels, Top of the container, Single panel, Mandatory label information, Ingredient list, Nutrition labeling, Nutrition Facts, Name and place of business of the manufacturer, packer, or distributor, Net quantity of contents, Allergen declaration, Prominently and conspicuously, Legible type, One-sixteenth inch in height, Type size",
       link: "https://www.ecfr.gov/current/title-21/section-101.2",
@@ -522,6 +545,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.1",
       title: "Principal display panel of package form food",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Principal Display Panel (PDP), Alternate Principal Display Panels, Area of the Principal Display Panel, Rectangular Package, Cylindrical or Nearly Cylindrical Container, Otherwise Shaped Container, Exclusions, Mandatory label information, Statement of identity, Net quantity, Clarity and conspicuousness, Without obscuring design, vignettes, or crowding, Duplicated",
       link: "https://www.ecfr.gov/current/title-21/section-101.1",
@@ -532,6 +556,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.3",
       title: "Identity labeling of food in packaged form",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Statement of the identity, Principal display panel, Common or usual name, Appropriately descriptive term, Fanciful name, Bold type, Reasonably related to the most prominent printed matter, Lines generally parallel to the base, Optional form, Imitation, Dietary supplement",
       link: "https://www.ecfr.gov/current/title-21/section-101.3",
@@ -542,6 +567,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 101.4",
       title: "Food designation of ingredients",
       Product: "Baking Soda, sodium bicarbonate",
+      Grade: "Food/FCC",
       keywords:
         "Ingredients, Common or usual name, Descending order of predominance by weight, Principal display panel (PDP), Information panel, Sub-ingredients, Collective name, Spices, Flavorings, Colorings, Chemical preservatives, Specific common or usual name, Hydrogenated, Partially hydrogenated, Contains one or more of the following, Major food allergens",
       link: "https://www.ecfr.gov/current/title-21/section-101.4",
@@ -552,6 +578,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.50",
       title: "Statement of identity",
       Product: "Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Statement of identity, Established name, Prescription drug, Insulin-containing drug, Mixture, No established name, Quantitative ingredient information, Principal features, Placement, size, and prominence",
       link: "https://www.ecfr.gov/current/title-21/section-201.50",
@@ -562,6 +589,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.51",
       title: "Declaration of net quantity of contents",
       Product: "Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Net quantity of contents, Declaration, Weight, Measure, Numerical count, Combination of numerical count and weight or measure, Unit dosage form, Avoirdupois pound, ounce, grain, Kilogram, gram, subdivisions thereof, U.S. gallon, quart, pint, fluid-ounce, fluid-dram, Liter, milliliter, Cubic centimeter, 68 °F (20 °C), Distinct item on the label, Accurate statement, Reasonable variations, Good manufacturing practice, Good distribution practice, Ampules, Vials, Minimum quantity, Excess volume, sample, physician's sample",
       link: "https://www.ecfr.gov/current/title-21/section-201.51",
@@ -572,6 +600,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.15",
       title: "Drugs prominence of required label statements",
       Product: "Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Prominence, Conspicuousness, Typography, Layout, Contrast, Printing features, Customary conditions of purchase, Label space, Smallness or style of type, Obscuring designs or vignettes, Crowding with other written, printed, or graphic matter, Foreign language",
       link: "https://www.ecfr.gov/current/title-21/section-201.15",
@@ -582,6 +611,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.10",
       title: "Drugs statement of ingredients",
       Product: "Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Ingredient information, Established name, Proprietary name, Active ingredients, Inactive ingredients, Quantity, Percentage, Unit dosage form, Fanciful proprietary name, Misleading, Placement, Prominence",
       link: "https://www.ecfr.gov/current/title-21/section-201.10",
@@ -593,6 +623,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Format and content requirements for over-the-counter (OTC) drug product labeling",
       Product: "Epsom Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
       link: "https://www.ecfr.gov/current/title-21/section-201.66",
@@ -604,6 +635,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Drugs name and place of business of manufacturer, packer, or distributor",
       Product: "Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Manufacturer, Packer, Distributor, Name and place of business, Street address, City, State, ZIP Code, Finished package form, Misbranded, Conspicuously, Qualified phrases, Corporate name, Principal place of business",
       link: "https://www.ecfr.gov/current/title-21/section-201.1",
@@ -614,6 +646,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.5",
       title: "Drugs adequate directions for use",
       Product: "Epsom Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Grade: "USP",
       keywords:
         "Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
       link: "https://www.ecfr.gov/current/title-21/section-201.5",
@@ -625,6 +658,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Specific requirements on content and format of labeling for human prescription drug and biological products described in § 201.56(b)(1)",
       Product: "",
+      Grade: "USP",
       keywords:
         "Prescribing Information, Format, Bolded, Boxed Warning, Black Box Warning, Highlights of Prescribing Information, Table of Contents, Indications and Usage, Dosage and Administration, Dosage Forms and Strengths, Contraindications, Warnings and Precautions, Adverse Reactions, Drug Interactions, Use in Specific Populations, Drug Abuse and Dependence, Overdosage, Description, Clinical Pharmacology, Pharmacokinetics, Pharmacodynamics, Clinical Studies, How Supplied/Storage and Handling, Patient Counseling Information, Patents, Revision Date",
       link: "https://www.ecfr.gov/current/title-21/section-201.57",
@@ -636,6 +670,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Requirements on content and format of labeling for human prescription drug and biological products",
       Product: "",
+      Grade: "USP",
       keywords:
         "Essential scientific information, Informative and accurate, Based on data derived from human experience, New drug application (NDA), Biologics license application (BLA), Efficacy supplement, Highlights of Prescribing Information (Highlights), Full Prescribing Information (FPI), Table of contents, Boxed warning, Black Box Warning, Minimum specifications for format, Bold type, Bullet points, Type size, Spacing",
       link: "https://www.ecfr.gov/current/title-21/section-201.56",
@@ -646,6 +681,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.55",
       title: "Statement of dosage",
       Product: "",
+      Grade: "USP",
       keywords:
         "Recommended or usual dosage, Prescription drugs, Package insert, See package insert for dosage information, Informative, Useful, Realistic, Readily be set forth on the label, Varies within extremely wide limits",
       link: "https://www.ecfr.gov/current/title-21/section-201.55",
@@ -668,6 +704,7 @@ const RegulatorySearchEngine = () => {
       title: "Precautionary statements for physical or chemical hazards",
       Product:
         "Bleach, Non-Acidic Toilet Bowl Cleaner, Acidic Toilet Bowl Cleaner",
+      Grade: "Technical",
       keywords:
         "Precautionary statements, Physical or Chemical Hazards, Flammability, Explosive characteristics, Flash point, Extremely flammable, Flammable, Combustible, Pressurized products, Contents under pressure, Do not puncture or incinerate container, Keep away from fire sparks and heated surfaces, Do not use or store near heat or open flame, Total release fogger, Graphic symbol, Oxidizing potential",
       link: "https://www.ecfr.gov/current/title-40/section-156.78",
@@ -678,13 +715,14 @@ const RegulatorySearchEngine = () => {
       section: "§ 156.85",
       title: "Non-target organisms",
       Product: "",
+      Grade: "Technical",
       keywords:
         "Non-target organisms, Hazard statements, Precautionary statements, Pesticide is toxic, Extremely toxic, Lethal dose (LD50), Lethal concentration (LC50), Aquatic applications, Pollinating insects, Contaminate water, Disposal of wastes",
       link: "https://www.ecfr.gov/current/title-40/section-156.85",
     },
     {
       id: 65,
-      Agency: "Consumer Product Safety Act Regulations",
+      Agency: "Consumer Product Safety Act",
       section: "PART 1303",
       title:
         "Ban of Lead-Containing Paint and Certain Consumer Products Bearing Lead-Containing Paint",
@@ -784,6 +822,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Magnesium sulfate heptahydrate; label declaration on drug products",
       Product: "Epsom Salt",
+      Grade: "USP",
       keywords:
         "Epsom Salt, Magnesium sulfate heptahydrate, common or usual name",
       link: "https://www.ecfr.gov/current/title-21/section-201.312",
@@ -837,6 +876,13 @@ const RegulatorySearchEngine = () => {
     return Array.from(allProducts).sort();
   }, []);
 
+  const grades = useMemo(() => {
+    const uniqueGrades = [
+      ...new Set(regulatoryData.map((item) => item.Grade).filter(Boolean)),
+    ];
+    return uniqueGrades.sort();
+  }, []);
+
   // Search and filter logic
   const filteredData = useMemo(() => {
     let filtered = regulatoryData;
@@ -854,7 +900,13 @@ const RegulatorySearchEngine = () => {
           item.Product.toLowerCase().includes(selectedProduct.toLowerCase())
       );
     }
-
+    // Filter by Grade
+    if (selectedGrade !== "all") {
+      filtered = filtered.filter(
+        (item) =>
+          item.Grade && item.Grade.toLowerCase() === selectedGrade.toLowerCase()
+      );
+    }
     // Filter by search query
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase();
@@ -868,7 +920,7 @@ const RegulatorySearchEngine = () => {
     }
 
     return filtered;
-  }, [searchQuery, selectedAgency, selectedProduct]);
+  }, [searchQuery, selectedAgency, selectedProduct, selectedGrade]);
 
   const handleSearch = (e) => {
     setSearchQuery(e.target.value);
@@ -1031,6 +1083,23 @@ const RegulatorySearchEngine = () => {
                     {products.map((product) => (
                       <option key={product} value={product}>
                         {product}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Filter by Grade:
+                  </label>
+                  <select
+                    value={selectedGrade}
+                    onChange={(e) => setSelectedGrade(e.target.value)}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+                  >
+                    <option value="all">All Grades</option>
+                    {grades.map((grade) => (
+                      <option key={grade} value={grade}>
+                        {grade}
                       </option>
                     ))}
                   </select>
