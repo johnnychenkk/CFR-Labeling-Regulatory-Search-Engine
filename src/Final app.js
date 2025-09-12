@@ -49,7 +49,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)",
       Product:
-        "Ice Melt, Reef Salt, Bleach, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Sand,Soda Ash, sodium carbonate, Isopropyl Alcohol",
+        "Ice Melt, Salt, Bleach, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Sand,Soda Ash, sodium carbonate, Isopropyl Alcohol",
       Standard: "Consumer / Household",
       keywords:
         "Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
@@ -61,7 +61,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       Product:
-        "Ice Melt, Reef Salt, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol",
+        "Ice Melt, Salt, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Bleach, Decorative River Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol",
       Standard: "Consumer / Household",
       keywords:
         "Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
@@ -651,7 +651,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.66",
       title:
         "Format and content requirements for over-the-counter (OTC) drug product labeling",
-      Product: "Epsom Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Product: "Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
       Standard: "USP",
       keywords:
         "Drug Facts, Active ingredient, Purpose, Use, Warning, Do not use, Ask a doctor before use if you have, Ask a doctor or pharmacist before use if you are, When using this product, Stop use and ask a doctor if, Pregnancy/breast-feeding warning, Keep out of reach of children, Directions, Other information, Inactive ingredients, Questions? or Comments?, Outside container or wrapper, Immediate container, Principal display panel, Reye's syndrome, Allergy alert, Flammability warning, Liver warning, Stomach bleeding warning, Sore throat warning, Dosage warning",
@@ -674,7 +674,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Drugs: General",
       section: "§ 201.5",
       title: "Drugs adequate directions for use",
-      Product: "Epsom Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+      Product: "Salt, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
       Standard: "USP",
       keywords:
         "Adequate directions for use, Layman, Safely, Intended use, Misbranded, Statements of all conditions, purposes, or uses, Quantity of dose, Quantities for different ages and physical conditions, Frequency of administration or application, Duration of administration or application, Time of administration or application, Route or method of administration or application, Preparation for use",
@@ -781,7 +781,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
       Product:
-        "Ice Melt, Bleach, Dead Sea Salt, Decorative River Rocks, Epsom Salt, Isopropyl Alcohol, Paint, Pit Balls, Reef Salt, Sand, Sodium Bicarbonate, Sodium Carbonate, Toilet Bowl Cleaner, Wiper Fluid",
+        "Salt, Ice Melt, Bleach, Salt, Decorative River Rocks, Isopropyl Alcohol, Paint, Pit Balls, Sand, Sodium Bicarbonate, Sodium Carbonate, Toilet Bowl Cleaner, Wiper Fluid",
       Standard: "Consumer / Household",
       keywords:
         "Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
@@ -838,7 +838,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Cosmetics",
       section: "Subpart B",
       title: "Package Form",
-      Product: "Epsom Salt, Dead Sea Salt",
+      Product: "Salt",
       Standard: "Cosmetic",
       keywords:
         "Principal Display Panel (PDP), Net Quantity of Contents, Statement of Identity, Name and Place of Business, Declaration of Responsibility, English Language, Prominent and Conspicuous, Metric System, U.S. Customary, Standardized Measure, Oversize Packaging, Servings per Container",
@@ -849,7 +849,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Cosmetics",
       section: "§ 701.3",
       title: "Designation of ingredients",
-      Product: "Epsom Salt, Dead Sea Salt",
+      Product: "Salt",
       Standard: "Cosmetic",
       keywords:
         "Declaration of Ingredients, Descending Order of Predominance, Fragrance, Flavor, Commonly Understood by Consumers, Prominence and Conspicuousness, Information Panel, Ingredients, May Contain, Ingredient Name",
@@ -861,7 +861,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 201.312",
       title:
         "Magnesium sulfate heptahydrate; label declaration on drug products",
-      Product: "Epsom Salt",
+      Product: "Salt",
       Standard: "USP",
       keywords: "Magnesium sulfate heptahydrate, common or usual name",
       link: "https://www.ecfr.gov/current/title-21/section-201.312",
@@ -900,9 +900,7 @@ const RegulatorySearchEngine = () => {
       "Pit Balls",
       "Toilet Bowl Cleaner",
       "Wiper Fluid",
-      "Dead Sea Salt",
-      "Epsom Salt",
-      "Reef Salt",
+      "Salt",
       "Ice Melt",
     ];
 
