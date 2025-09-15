@@ -25,7 +25,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Federal Hazardous Substances Act",
       section: "§ 1500.19",
       title: "Misbranded toys and other articles intended for use by children",
-      Product: "Pit Balls for Toddlers, Rocks, Sand",
+      Product: "Ball for Toddlers, Rocks, Sand",
       Standard: "Consumer / Household",
       keywords:
         "WARNING, SAFETY WARNING, CHOKING HAZARD, Small part, Small ball, Latex balloon, Marble, Labeling statements, Descriptive material, English language, Conspicuous and legible type, Typography layout or color, Solid background, Square or rectangular area, Toy or game, Children's products, Age of intended user, Not for children under 3 yrs., Not for under 8 yrs.",
@@ -129,7 +129,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1107.30",
       title:
         "Labeling consumer products to indicate that the certification requirements of section 14 of the CPSA have been met",
-      Product: "Pit Balls",
+      Product: "Ball",
       Standard: "Consumer / Household",
       keywords:
         "Uniform label, Provided with the product, CPSC, Meets CPSC Safety Requirements, Visible and legible, Certification requirements, Consumer product safety rule, Manufacturer, Private labeler, Does not alter or mislead, Not an endorsement",
@@ -757,7 +757,7 @@ const RegulatorySearchEngine = () => {
       section: "PART 1303",
       title:
         "Ban of Lead-Containing Paint and Certain Consumer Products Bearing Lead-Containing Paint",
-      Product: "Paint",
+      Product: "Paint, Ball",
       Standard: "Consumer / Household",
       keywords:
         "Lead-containing paint, 0.009 percent, Banned hazardous products, Toys, Articles intended for use by children, Furniture articles, Consumer product, Surface-coating materials, Warning, Contains Lead. Dried Film of This Paint May Be Harmful If Eaten or Chewed",
@@ -769,7 +769,7 @@ const RegulatorySearchEngine = () => {
       section: "PART 1501",
       title:
         "Method for Identifying Toys and Other Articles Intended for Use by Children Under 3 Years of Age Which Present Choking, Aspiration, or Ingestion Hazards Because of Small Parts",
-      Product: "Pit Balls, Rocks",
+      Product: "Ball, Rocks",
       keywords:
         "aspiration, ingestion hazard, Small parts, Children under 3 years of age, Under 36 months, Intended for use, Manufacturer's stated intent, Advertising promotion and marketing, Commonly recognized use, Banned hazardous substance, Use and abuse tests, Impact, Torque, Tension, Compression",
       link: "https://www.ecfr.gov/current/title-16/part-1501",
@@ -781,7 +781,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
       Product:
-        "Salt, Ice Melt, Bleach, Salt, Rocks, Isopropyl Alcohol, Paint, Pit Balls, Sand, Sodium Bicarbonate, Sodium Carbonate, Toilet Bowl Cleaner, Wiper Fluid",
+        "Salt, Ice Melt, Bleach, Salt, Rocks, Isopropyl Alcohol, Paint, Ball, Sand, Sodium Bicarbonate, Sodium Carbonate, Toilet Bowl Cleaner, Wiper Fluid",
       Standard: "Consumer / Household",
       keywords:
         "Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
@@ -793,18 +793,18 @@ const RegulatorySearchEngine = () => {
       section: "Part 1307",
       title:
         "Prohibition of Children's Toys and Child Care Articles Containing Specified Phthalates",
-      Product: "Pit Balls",
+      Product: "Ball",
       Standard: "Consumer / Household",
       keywords:
-        "Pit Balls, Children's toys, Child care article, Prohibited, Specified phthalates, Concentrations of more than 0.1 percent, DEHP, DBP, BBP, DINP, DIBP, DPENP, DHEXP, DCHP, Plasticized component part, Other component part",
+        "Ball, Children's toys, Child care article, Prohibited, Specified phthalates, Concentrations of more than 0.1 percent, DEHP, DBP, BBP, DINP, DIBP, DPENP, DHEXP, DCHP, Plasticized component part, Other component part",
       link: "https://www.ecfr.gov/current/title-16/part-1307",
     },
     {
       id: 69,
       Agency: "Consumer Product Safety Act",
       section: "Subpart C",
-      title: "—Certification of Children's Products",
-      Product: "Pit Balls",
+      title: "Certification of Children's Products",
+      Product: "Ball",
       Standard: "Consumer / Household",
       keywords:
         "Children's products, Children's Product Certificate (CPC), Certification, Third-party testing, Periodic testing, Material change, Compliance, Manufacturer/Importer, Recordkeeping",
@@ -815,7 +815,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Consumer Product Safety Act",
       section: "Part 1250",
       title: "Safety Standard Mandating ASTM F963 for Toys",
-      Product: "Pit Balls",
+      Product: "Ball",
       Standard: "Consumer / Household",
       keywords:
         "ASTM F963, Toy, WARNING, Choking hazard, Small parts, Age grading, Labeling, Not for children under, Read instructions before use, Adult supervision required, Manufacturer or distributor name and address, Country of origin",
@@ -827,7 +827,7 @@ const RegulatorySearchEngine = () => {
       section: "16 CFR § 1500.18",
       title:
         "Banned toys and other banned articles intended for use by children",
-      Product: "Pit Balls",
+      Product: "Ball",
       Standard: "Consumer / Household",
       keywords:
         "Banned toys, Mechanical hazards, Choking, Aspiration, Ingestion hazard, Small parts, Toy rattle, Rigid wires, Sharp protrusions, Sharp metal edge, Sharp glass edge, Sharp point, Noisemaking components, Clacker balls, Infant cushion, Infant pillow, Dive sticks, Dive rings, Balloons, Marbles, Small balls",
@@ -876,6 +876,28 @@ const RegulatorySearchEngine = () => {
       keywords: "silica",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1053",
     },
+    {
+      id: 76,
+      Agency: "Consumer Product Safety Commission",
+      section: "§ 1112.15(b)(32)(ii)",
+      title: "ASTM F963-23",
+      Product: "Ball",
+      Standard: "Consumer / Household",
+      keywords:
+        "Metals, Substrate, Cleanliness, Stuffing, Sound, Small Objects, Edges, Projections, Points, Wires, Fasteners, Plastic Film, Hinges, Cords, Stability, Confined Spaces, Wheels, Holes, Protective Devices, Pacifiers (Rubber/Nitrosamine), Toy Pacifiers, Projectiles, Teethers, Rattles, Squeeze Toys, Battery Toys, Crib/Playpen Toys, Stuffed/Beanbag Toys, Gun Marking, Spherical Ends, Pompoms, Hemispheric Objects, Yo-Yo Tethers, Magnets, Jaw Entrapment, Expanding Materials, Toy Chests",
+      link: "https://www.ecfr.gov/current/title-16/part-1112/section-1112.15#p-1112.15(b)(32)(ii)",
+    },
+    {
+      id: 77,
+      Agency: "Consumer Product Safety Commission",
+      section: "PART 1110",
+      title: "Certificates of Compliance",
+      Product: "Ball",
+      Standard: "Consumer / Household",
+      keywords:
+        "Purpose, Scope, Importers, Domestic Manufacturers, Electronic Certificate, Hard Copy Certificate, Certification, Compliance, Availability, Form (English), Product Identification, Regulations Cited, Manufacturer Info, Test Record Custodian, Manufacturing Date/Place, Testing Date/Place, Third-Party Lab Info, Distributor/Retailer Access, Unique Identifier, URL Access, Creation/Modification Date, Legal Responsibility",
+      link: "https://www.ecfr.gov/current/title-16/part-1110",
+    },
   ];
 
   // Get unique Agencies and products for filters
@@ -897,7 +919,7 @@ const RegulatorySearchEngine = () => {
       "Paint",
       "Rocks",
       "Isopropyl Alcohol",
-      "Pit Balls",
+      "Ball",
       "Toilet Bowl Cleaner",
       "Wiper Fluid",
       "Salt",
@@ -918,7 +940,7 @@ const RegulatorySearchEngine = () => {
         if (keywords.includes("isopropyl alcohol"))
           allProducts.add("Isopropyl Alcohol");
       if (keywords.includes("Rocks")) allProducts.add("Rocks");
-      if (keywords.includes("Pit Balls")) allProducts.add("Pit Balls");
+      if (keywords.includes("Ball")) allProducts.add("Ball");
     });
     return Array.from(allProducts).sort();
   }, []);
