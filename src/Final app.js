@@ -881,22 +881,11 @@ const RegulatorySearchEngine = () => {
       Agency: "Consumer Product Safety Commission",
       section: "§ 1112.15(b)(32)(ii)",
       title: "ASTM F963-23",
-      Product: "Ball",
+      Product: "Ball, sand",
       Standard: "Consumer / Household",
       keywords:
         "Metals, Substrate, Cleanliness, Stuffing, Sound, Small Objects, Edges, Projections, Points, Wires, Fasteners, Plastic Film, Hinges, Cords, Stability, Confined Spaces, Wheels, Holes, Protective Devices, Pacifiers (Rubber/Nitrosamine), Toy Pacifiers, Projectiles, Teethers, Rattles, Squeeze Toys, Battery Toys, Crib/Playpen Toys, Stuffed/Beanbag Toys, Gun Marking, Spherical Ends, Pompoms, Hemispheric Objects, Yo-Yo Tethers, Magnets, Jaw Entrapment, Expanding Materials, Toy Chests",
       link: "https://www.ecfr.gov/current/title-16/part-1112/section-1112.15#p-1112.15(b)(32)(ii)",
-    },
-    {
-      id: 77,
-      Agency: "Consumer Product Safety Commission",
-      section: "PART 1110",
-      title: "Certificates of Compliance",
-      Product: "Ball",
-      Standard: "Consumer / Household",
-      keywords:
-        "Purpose, Scope, Importers, Domestic Manufacturers, Electronic Certificate, Hard Copy Certificate, Certification, Compliance, Availability, Form (English), Product Identification, Regulations Cited, Manufacturer Info, Test Record Custodian, Manufacturing Date/Place, Testing Date/Place, Third-Party Lab Info, Distributor/Retailer Access, Unique Identifier, URL Access, Creation/Modification Date, Legal Responsibility",
-      link: "https://www.ecfr.gov/current/title-16/part-1110",
     },
   ];
 
