@@ -887,6 +887,17 @@ const RegulatorySearchEngine = () => {
         "Metals, Substrate, Cleanliness, Stuffing, Sound, Small Objects, Edges, Projections, Points, Wires, Fasteners, Plastic Film, Hinges, Cords, Stability, Confined Spaces, Wheels, Holes, Protective Devices, Pacifiers (Rubber/Nitrosamine), Toy Pacifiers, Projectiles, Teethers, Rattles, Squeeze Toys, Battery Toys, Crib/Playpen Toys, Stuffed/Beanbag Toys, Gun Marking, Spherical Ends, Pompoms, Hemispheric Objects, Yo-Yo Tethers, Magnets, Jaw Entrapment, Expanding Materials, Toy Chests",
       link: "https://www.ecfr.gov/current/title-16/part-1112/section-1112.15#p-1112.15(b)(32)(ii)",
     },
+    {
+      id: 76,
+      Agency: "Consumer Product Safety Commission",
+      section: "Parts 1112 and 1250",
+      title: "Mandatory Toy Safety Standards: Requirements for Neck Floats",
+      Product: "Aquatic Toys",
+      Standard: "Consumer / Household",
+      keywords:
+        "Incident data, foreseeable use, ASTM F963, ANSI/NEMA Z535.4, THIS PRODUCT DOES NOT PREVENT DROWNING, caregiver supervision within arm’s reach, inflatable leaks, conspicuous placement.",
+      link: "https://www.federalregister.gov/documents/2024/11/20/2024-25446/mandatory-toy-safety-standards-requirements-for-neck-floats",
+    },
   ];
 
   // Get unique Agencies and products for filters
@@ -913,6 +924,7 @@ const RegulatorySearchEngine = () => {
       "Wiper Fluid",
       "Salt",
       "Ice Melt",
+      "Aquatic Toys",
     ];
 
     manualProducts.forEach((product) => allProducts.add(product));
