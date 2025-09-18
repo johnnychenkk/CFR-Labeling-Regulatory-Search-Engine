@@ -49,7 +49,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.3",
       title: "Definitions (b)",
       Product:
-        "Ice Melt, Bleach, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Sand,Soda Ash, sodium carbonate, Isopropyl Alcohol",
+        "Lime Powder, Ice Melt, Bleach, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Sand,Soda Ash, sodium carbonate, Isopropyl Alcohol",
       Standard: "Consumer / Household",
       keywords:
         "Cautionary material, Cautionary labeling, Cautionary labeling required by the Act, Misbranded hazardous substance, Principal display panel, Signal word, Statement of the principal hazard or hazards, Common or usual name, Chemical name, Name and place of business of the manufacturer packer distributor or seller, Precautionary measures, First aid treatment, Handling and storage instructions, Keep out of the reach of children, Reasonably foreseeable handling or use, Substantial personal injury or substantial illness, DANGER, WARNING, CAUTION",
@@ -61,7 +61,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1500.121",
       title: "Labeling requirements prominence, placement, and conspicuousness",
       Product:
-        "Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Bleach, Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol",
+        "Lime Powder, Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Toilet Bowl Cleaner, Bleach, Rocks, Sand, Soda Ash, sodium carbonate, Paint, Isopropyl Alcohol",
       Standard: "Consumer / Household",
       keywords:
         "Prominent, Placement, Conspicuous, Legible type, Contrast by typography layout or color, Typography, Layout, Color, Principal display panel, Block together, Read carefully other cautions on the panel, Horizontal placement, Type size, Capital letters, Skull and crossbones symbol, POISON, Immediately on the container",
@@ -141,7 +141,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (f)",
       title: "Hazard communication-Labels and other forms of warning",
       Product:
-        "Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+        "Lime POwder, Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
       Standard: "Technical / Industrial",
       keywords:
         "Product Identifier, Signal Word, DANGER, WARNING, Hazard Statement, Pictogram, Skull and crossbones, Flame, Exclamation mark, Health hazard, Corrosion, Precautionary Statement, Prevention, Response, Storage, Disposal, Name, Address, Telephone number, Chemical manufacturer, Importer, Container, Workplace labels, Specific hazards not otherwise classified, HNOC, Mixtures, Alternative labeling, Legible, English, Prominently displayed",
@@ -153,7 +153,7 @@ const RegulatorySearchEngine = () => {
       section: "§ 1910.1200 (b)",
       title: "Hazard communication-Scope and application",
       Product:
-        "Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+        "Lime POwder, Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
       Standard: "Technical / Industrial",
       keywords:
         "Hazard Communication Standard, HCS, Exemption, Consumer product, Hazardous substance, Consumer Product Safety Act, CPSA, Federal Hazardous Substances Act, FHSA, Workplace, Intended use",
@@ -165,7 +165,7 @@ const RegulatorySearchEngine = () => {
       section: "Appendix D to § 1910.1200",
       title: "Safety Data Sheets (Mandatory)",
       Product:
-        "Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
+        "Lime POwder, Ice Melt, Wiper Fluid, Toilet Bowl Cleaner, Bleach, Sand, Soda Ash, sodium carbonate, Baking Soda, sodium bicarbonate, Isopropyl Alcohol",
       Standard: "Technical / Industrial",
       keywords:
         "Safety Data Sheet, SDS, Hazard Communication Standard, HCS, Globally Harmonized System, GHS, Chemical manufacturer, Importer, Responsible party, Product identifier, Recommended use, Restrictions on use, Emergency phone number, Classification, Signal word, DANGER, WARNING, Hazard statement, Symbol, Pictogram, Precautionary statement, Chemical name, Common name, Synonyms, CAS No., Concentration, Concentration range, First-Aid Measures, Symptoms, Acute effects, Delayed effects, Immediate medical attention, Fire-Fighting Measures, Extinguishing media, Specific hazards, Protective equipment, Accidental Release Measures, Personal precautions, Protective equipment, Containment methods, Cleaning methods, Handling, Storage, Exposure Controls, Personal Protection, PEL, TLV, Engineering controls, PPE, Physical and Chemical Properties, Physical state, Odor, pH, Flash point, Flammability, Stability and Reactivity, Reactivity, Chemical stability, Incompatible materials, Hazardous decomposition products, Toxicological Information, Routes of exposure, Carcinogenicity, Date of preparation, Last revision",
@@ -781,7 +781,7 @@ const RegulatorySearchEngine = () => {
       title:
         "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
       Product:
-        "Salt, Ice Melt, Bleach, Salt, Rocks, Isopropyl Alcohol, Paint, Ball, Sand, Sodium Bicarbonate, Sodium Carbonate, Toilet Bowl Cleaner, Wiper Fluid",
+        "Lime Powder, Salt, Ice Melt, Bleach, Rocks, Isopropyl Alcohol, Paint, Ball, Sand, Sodium Bicarbonate, Sodium Carbonate, Toilet Bowl Cleaner, Wiper Fluid",
       Standard: "Consumer / Household",
       keywords:
         "Identity of the commodity, Net quantity of contents, Weight, Measure, Numerical count, Metric units, Customary units, Principal display panel, Name and place of business, Conspicuous and legible, Type size, Dual-unit, Package, Consumer commodity, Multiunit package, Variety package, Slack fill",
@@ -871,7 +871,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Occupational Safety and Health Standards",
       section: "§ 1910.1053",
       title: "Respirable crystalline silica",
-      Product: "Sand, Rocks",
+      Product: "Lime Powder, Sand, Rocks",
       Standard: "Technical / Industrial",
       keywords: "silica",
       link: "https://www.ecfr.gov/current/title-29/section-1910.1053",
@@ -925,6 +925,7 @@ const RegulatorySearchEngine = () => {
       "Salt",
       "Ice Melt",
       "Aquatic Toys",
+      "Lime Powder",
     ];
 
     manualProducts.forEach((product) => allProducts.add(product));
