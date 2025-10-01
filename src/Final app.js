@@ -898,6 +898,16 @@ const RegulatorySearchEngine = () => {
         "Incident data, foreseeable use, ASTM F963, ANSI/NEMA Z535.4, THIS PRODUCT DOES NOT PREVENT DROWNING, caregiver supervision within arm’s reach, inflatable leaks, conspicuous placement.",
       link: "https://www.federalregister.gov/documents/2024/11/20/2024-25446/mandatory-toy-safety-standards-requirements-for-neck-floats",
     },
+    {
+      id: 77,
+      Agency: "Food for Human Consumption",
+      section: "§ 101.9",
+      title: "Nutrition labeling of food",
+      Product: "Salt",
+      Standard: "Food / FCC",
+      keywords: "Nutrition Facts",
+      link: "https://www.ecfr.gov/current/title-21/section-101.9",
+    },
   ];
 
   // Get unique Agencies and products for filters
