@@ -595,7 +595,7 @@ const RegulatorySearchEngine = () => {
       Agency: "Food for Human Consumption",
       section: "§ 101.4",
       title: "Food designation of ingredients",
-      Product: "Baking Soda, sodium bicarbonate",
+      Product: "Salt, Baking Soda, sodium bicarbonate",
       Standard: "Food / FCC",
       keywords:
         "Ingredients, Common or usual name, Descending order of predominance by weight, Principal display panel (PDP), Information panel, Sub-ingredients, Collective name, Spices, Flavorings, Colorings, Chemical preservatives, Specific common or usual name, Hydrogenated, Partially hydrogenated, Contains one or more of the following, Major food allergens",
@@ -888,7 +888,7 @@ const RegulatorySearchEngine = () => {
       link: "https://www.ecfr.gov/current/title-16/part-1112/section-1112.15#p-1112.15(b)(32)(ii)",
     },
     {
-      id: 76,
+      id: 77,
       Agency: "Consumer Product Safety Commission",
       section: "Parts 1112 and 1250",
       title: "Mandatory Toy Safety Standards: Requirements for Neck Floats",
@@ -897,6 +897,17 @@ const RegulatorySearchEngine = () => {
       keywords:
         "Incident data, foreseeable use, ASTM F963, ANSI/NEMA Z535.4, THIS PRODUCT DOES NOT PREVENT DROWNING, caregiver supervision within arm’s reach, inflatable leaks, conspicuous placement.",
       link: "https://www.federalregister.gov/documents/2024/11/20/2024-25446/mandatory-toy-safety-standards-requirements-for-neck-floats",
+    },
+    {
+      id: 78,
+      Agency: "Animal Drugs, Feeds, and Related Products",
+      section: "Parts 1112 and 1250",
+      title: "Animal Food Labeling",
+      Product: "Animal Food",
+      Standard: "Food / FCC",
+      keywords:
+        "Principal Display Panel, Information Panel, Statement of Identity, Ingredient Declaration, Name and Place of Business, Net Quantity of Contents, Number of Servings, Prominence of Required Statements, Warning Statements, Misbranding, False or Misleading Labeling, Spices, Flavorings, Colorings, Chemical Preservatives, Exemptions, Petitions for Exemptions, Special Labeling Requirements, Collective Names for Feed Ingredients, Animal Protein Products, Grain Products, Forage Products, Plant Protein Products, Vitamin Products, Mineral Products, Added Nutrients, Guaranteed Analysis, Directions for Use, Feeding Instructions, Cautions, Warnings, Lot Identification, Expiration Date, Manufacturing Date, Labeling Responsibility, Compliance and Enforcement",
+      link: "https://www.ecfr.gov/current/title-21/part-501",
     },
   ];
 
@@ -926,6 +937,7 @@ const RegulatorySearchEngine = () => {
       "Ice Melt",
       "Aquatic Toys",
       "Lime Powder",
+      "Animal Food",
     ];
 
     manualProducts.forEach((product) => allProducts.add(product));
